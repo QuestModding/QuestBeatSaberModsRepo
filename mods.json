@@ -13,5 +13,20 @@
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
             }
         }
+    ],
+    "1.19.1": [
+        {
+            "name": "Vent",
+            "description": "Failed so hard you wanted to vent out of the game? Then here it is. (Launches amongus vr if installed)",
+            "id": "vent",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/cal117/Vent/releases/download/1.0.0/Vent-1.0.0+1191.qmod",
+            "source": "https://github.com/cal117/Vent/",
+            "cover": "https://raw.githubusercontent.com/cal117/Vent/master/cover.png",
+            "author": {
+                "name": "cal117",
+                "icon": "https://github.com/cal117.png"
+            }
+        }
     ]
 }
