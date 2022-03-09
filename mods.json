@@ -1,12 +1,13 @@
 {
-    "1.17.1": [
+    "1.20.0": [
         {
             "name": "Thicc Saber",
             "description": "A simple mod which allows you to control the dimensions of notes!",
             "id": "ThiccSaber",
-            "version": "1.0.0",
-            "downloadLink": "https://github.com/BobbyShmurner/ThiccSaber/releases/download/v2.1.5/Thicc_Saber-v2.1.5.qmod",
-            "cover": "",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/BobbyShmurner/ThiccSaber/releases/download/v1.1.0/Thicc_Saber-v1.1.0.qmod",
+            "source": "https://github.com/BobbyShmurner/ThiccSaber/",
+            "cover": "https://github.com/BobbyShmurner/ThiccSaber/raw/refs/tags/v1.1.0/cover.png",
             "author": {
                 "name": "Bobby Shmurner",
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
