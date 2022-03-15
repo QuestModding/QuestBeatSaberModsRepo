@@ -12,6 +12,58 @@
                 "name": "Bobby Shmurner",
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
             }
+        },
+        {
+            "name": "Crash Mod",
+            "description": "Crash your game via various ways",
+            "id": "CrashMod",
+            "version": "0.6.0",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.6.0/CrashMod.qmod",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://computerelite.github.io/assets/CE_512px.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
+        },
+        {
+            "name": "Third Person Mod",
+            "description": "Play in third person with a whole lot of configuration",
+            "id": "Play3rdPer",
+            "version": "0.6.0",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.6.0/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://computerelite.github.io/assets/CE_512px.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Change the color of your health bar according to your health",
+            "id": "RedBar",
+            "version": "1.8.0",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.8.0/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://computerelite.github.io/assets/CE_512px.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Enhance your Beat Saber stream with overlays!",
+            "id": "streamer-tools",
+            "version": "0.4.0",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.4.0/Streamer-Tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://computerelite.github.io/assets/CE_512px.png",
+            "author": {
+                "name": "EnderdracheLP, ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
         }
     ]
 }
