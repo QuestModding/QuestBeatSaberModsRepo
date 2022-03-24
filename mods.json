@@ -12,6 +12,19 @@
                 "name": "Bobby Shmurner",
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
             }
+        },
+        {
+            "name": "Colorama",
+            "description": "Change the colors of the menu and other neat color related options.",
+            "id": "colorama",
+            "version": "2.0.0",
+            "downloadLink": "https://github.com/cal117/Colorama/releases/download/2.0.0/Colorama-2.0.0-1200.qmod",
+            "source": "https://github.com/cal117/Colorama/",
+            "cover": "https://raw.githubusercontent.com/cal117/Colorama/master/cover.png",
+            "author": {
+                "name": "cal117",
+                "icon": "https://github.com/cal117.png"
+            }
         }
     ]
 }
