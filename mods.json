@@ -27,6 +27,19 @@
                 "name": "You",
                 "icon": "Example.Link.To.Your/pfp.png"
             }
+        },
+        {
+            "name": "No Promo",
+            "description": "Yeets the promo button on the main menu",
+            "id": "nopromo",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/cal117/NoPromo/releases/download/1.1.0/NoPromo-1.1.0+1210.qmod",
+            "source": "https://github.com/cal117/NoPromo/",
+            "cover": "https://raw.githubusercontent.com/cal117/NoPromo/master/cover.png",
+            "author": {
+                "name": "cal117",
+                "icon": "https://github.com/cal117.png"
+            }
         }
     ]
 }
