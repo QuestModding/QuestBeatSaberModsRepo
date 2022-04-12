@@ -13,5 +13,20 @@
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
             }
         }
+    ],
+    "1.21.0": [
+        {
+            "name": "ExampleMod",
+            "description": "Example Description",
+            "id": "ExampleID",
+            "version": "0.0.0",
+            "downloadLink": "Example.Download/Link.qmod",
+            "source": "https://github.com/Example/Source/",
+            "cover": "Example.Cover/cover.png",
+            "author": {
+                "name": "You",
+                "icon": "Example.Link.To.Your/pfp.png"
+            }
+        }
     ]
 }
