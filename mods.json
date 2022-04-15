@@ -16,16 +16,29 @@
     ],
     "1.21.0": [
         {
-            "name": "ExampleMod",
-            "description": "Example Description",
-            "id": "ExampleID",
-            "version": "0.0.0",
-            "downloadLink": "Example.Download/Link.qmod",
-            "source": "https://github.com/Example/Source/",
-            "cover": "Example.Cover/cover.png",
+            "name": "HitScoreVisualizer",
+            "description": "Customize the text of your scores!",
+            "id": "HitScoreVisualizer",
+            "version": "2.5.0",
+            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.5.0/HitScoreVisualizer.qmod",
+            "source": "https://github.com/Christoffyw/HitScoreVisualizer",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
             "author": {
-                "name": "You",
-                "icon": "Example.Link.To.Your/pfp.png"
+                "name": "Christoffyw, Metalit",
+                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
+            }
+        },
+        {
+            "name": "Faster Scroll",
+            "description": "Find your songs faster with customizable song scrolling.",
+            "id": "FasterScroll",
+            "version": "1.5.0",
+            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.5.0/FasterScroll.qmod",
+            "source": "https://github.com/Christoffyw/FasterScrollQuest",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/main/Cover.jpg",
+            "author": {
+                "name": "Christoffyw",
+                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
             }
         },
         {
