@@ -92,6 +92,19 @@
                 "name": "Metalit",
                 "icon": "https://avatars.githubusercontent.com/u/48568911?v=4"
             }
+        },
+        {
+            "name": "Vent",
+            "description": "I swear you just vented...",
+            "id": "vent",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/cal117/Vent/releases/download/1.0.0/Vent-1.0.0+1210.qmod",
+            "source": "https://github.com/cal117/Vent/",
+            "cover": "https://raw.githubusercontent.com/cal117/Vent/master/cover.png",
+            "author": {
+                "name": "cal117",
+                "icon": "https://github.com/cal117.png"
+            }
         }
     ]
 }
