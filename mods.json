@@ -53,6 +53,45 @@
                 "name": "cal117",
                 "icon": "https://github.com/cal117.png"
             }
+        },
+        {
+            "name": "BeatSaviorData",
+            "description": "Gives a detailed overview of your performance when finishing a level!",
+            "id": "beatsaviordata",
+            "version": "2.0.0",
+            "downloadLink": "https://github.com/Metalit/QuestBeatSaviourData/releases/download/v2.0.0/BeatSaviorData.qmod",
+            "source": "https://github.com/Metalit/QuestBeatSaviourData/",
+            "cover": "https://github.com/Metalit/QuestBeatSaviourData/blob/176ca5db5b35e6edcf5e8d85bc171cc190ae5328/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/u/48568911?v=4"
+            }
+        },
+        {
+            "name": "JDFixer",
+            "description": "Configure your Jump Distance, Speed, and more with ultra precision!",
+            "id": "jdfixer",
+            "version": "2.0.0",
+            "downloadLink": "https://github.com/Metalit/QuestJDFixer/releases/download/v2.0.0/JDFixer.qmod",
+            "source": "https://github.com/Metalit/QuestJDFixer/",
+            "cover": "https://github.com/Metalit/QuestJDFixer/blob/79cac1d6eada8c2c7011ff8be7d67fffe5c1767d/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/u/48568911?v=4"
+            }
+        },
+        {
+            "name": "Transitions",
+            "description": "Speed up or remove boring transitions in the game",
+            "id": "transitions",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/Metalit/Transitions/releases/download/v1.0.0/Transitions.qmod",
+            "source": "https://github.com/Metalit/Transitions/",
+            "cover": "https://github.com/Metalit/Transitions/blob/c5e5852b3a674d84666cdb70a15bebf9227220ee/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/u/48568911?v=4"
+            }
         }
     ]
 }
