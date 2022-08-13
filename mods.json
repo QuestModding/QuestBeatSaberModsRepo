@@ -96,6 +96,19 @@
     ],
     "1.24.0": [
         {
+            "name": "Custom Pillows",
+            "description": "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC",
+            "id": "custom-pillows",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/download/v1.1.0/CustomPillows.qmod",
+            "source": "https://github.com/RedBrumbler/CustomPillowsQuest",
+            "cover": "https://github.com/RedBrumbler/CustomPillowsQuest/blob/master/cover.png?raw=true",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+            }
+        },
+        {
             "name": "SearchFixes",
             "description": "An improved search algorithm for Beat Saber",
             "id": "SearchFixes",
@@ -141,7 +154,7 @@
             "version": "1.10.0",
             "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.10.0/RedBar.qmod",
             "source": "https://github.com/ComputerElite/RedBar/",
-            "cover": "",
+            "cover": "https://computerelite.github.io/assets/ModCover.png",
             "author": {
                 "name": "ComputerElite",
                 "icon": "https://computerelite.github.io/assets/CE_512px.png"
@@ -157,7 +170,7 @@
             "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
             "author": {
                 "name": "EnderdracheLP, ComputerElite",
-                "icon": ""
+                "icon": "https://computerelite.github.io/assets/person.png"
             }
         }
     ]
