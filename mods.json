@@ -172,6 +172,19 @@
                 "name": "EnderdracheLP, ComputerElite",
                 "icon": "https://computerelite.github.io/assets/person.png"
             }
+        },
+        {
+            "name": "Difficulty Saver",
+            "description": "Once upon a time someone thought of a great mod idea. That happened to be male (not me). I, the great KRAK, went on the quest to fetch all the knowledge needed to create a mind blowing mod which saves your difficulty after changing it in the blink of an eye.",
+            "id": "Difficulty-Saver",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/kodenamekrak/DifficultySaver/releases/download/1.0.0/DifficultySaver.qmod",
+            "source": "https://github.com/kodenamekrak/DifficultySaver",
+            "cover": "https://github.com/kodenamekrak/DifficultySaver/blob/master/cover.png?raw=true",
+            "author": {
+                "name": "KodenameKRAK",
+                "icon": "https://cdn.discordapp.com/avatars/430459328852656148/dcb4ceec175e463b68a8afcc86f29a37.png?size=2048"
+            }
         }
     ]
 }
