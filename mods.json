@@ -120,6 +120,58 @@
                 "name": "rui2015",
                 "icon": "https://avatars.githubusercontent.com/u/15705566?v=4"
             }
+        },
+        {
+            "name": "CrashMod",
+            "description": "Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
+            "id": "CrashMod",
+            "version": "0.8.0",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.8.0/CrashMod.qmod",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/CrashMod/main/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
+        },
+        {
+            "name": "Third Person Mod",
+            "description": "- Play in third person\n- Fix your camera to your saber\n- Fix your camera\n- Fly through the enviorment",
+            "id": "Play3rdPer",
+            "version": "0.8.0",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.8.0/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/main/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.10.0",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.10.0/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://computerelite.github.io/assets/ModCover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Allows applications to get information from the game like, currently played song.\n\nMod Setup video: https://www.youtube.com/watch?v=1OMHjjSi-5s",
+            "id": "Streamer-Tools",
+            "version": "0.6.0",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.6.0/Streamer-Tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
+            "author": {
+                "name": "EnderdracheLP, ComputerElite",
+                "icon": "https://computerelite.github.io/assets/person.png"
+            }
         }
     ]
 }
