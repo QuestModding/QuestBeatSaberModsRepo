@@ -189,7 +189,7 @@
         {
             "name": "ClockMod",
             "description": "Displays the time in game. Alternatively also the Battery Percentage",
-            "id": "QuestSounds",
+            "id": "ClockMod",
             "version": "1.6.0",
             "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.6.0/ClockMod.qmod",
             "source": "https://github.com/EnderdracheLP/ClockMod/",
