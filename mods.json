@@ -154,7 +154,7 @@
             "version": "1.10.0",
             "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.10.0/RedBar.qmod",
             "source": "https://github.com/ComputerElite/RedBar/",
-            "cover": "https://computerelite.github.io/assets/ModCover.png",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
             "author": {
                 "name": "ComputerElite",
                 "icon": "https://computerelite.github.io/assets/CE_512px.png"
