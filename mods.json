@@ -174,7 +174,19 @@
             }
         },
         {
-
+            "name": "Faster Scroll",
+            "description": "Find your songs faster with customizable song scrolling.",
+            "id": "FasterScroll",
+            "version": "1.6.0",
+            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.6.0/FasterScroll.qmod",
+            "source": "https://github.com/Christoffyw/FasterScrollQuest",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/main/Cover.jpg",
+            "author": {
+                "name": "Christoffyw",
+                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
+            }
+        },
+        {
             "name": "Difficulty Saver",
             "description": "Once upon a time someone thought of a great mod idea. That happened to be male (not me). I, the great KRAK, went on the quest to fetch all the knowledge needed to create a mind blowing mod which saves your difficulty after changing it in the blink of an eye.",
             "id": "Difficulty-Saver",
@@ -278,6 +290,5 @@
                 "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
             }
         }
-        >>>>>>> master
     ]
 }
