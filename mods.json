@@ -154,7 +154,7 @@
             "version": "1.10.0",
             "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.10.0/RedBar.qmod",
             "source": "https://github.com/ComputerElite/RedBar/",
-            "cover": "https://computerelite.github.io/assets/ModCover.png",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
             "author": {
                 "name": "ComputerElite",
                 "icon": "https://computerelite.github.io/assets/CE_512px.png"
@@ -184,6 +184,57 @@
             "author": {
                 "name": "Fernthedev",
                 "icon": "https://avatars.githubusercontent.com/u/15272073?v=4"
+            }
+        },
+            "name": "Qosmetics Core",
+            "description": "Qosmetics Core module that handles menu placement and generic utils for other modules",
+            "id": "qosmetics-core",
+            "version": "2.0.0",
+            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Core/releases/download/v2.0.0/QosmeticsCore.qmod",
+            "source": "https://github.com/Qosmetics/Qosmetics-Core",
+            "cover": "https://github.com/Qosmetics/Qosmetics-Core/raw/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+            }
+        },
+        {
+            "name": "Qosmetics Cyoobs",
+            "description": "Qosmetics module that adds Cyoob capabilities",
+            "id": "qosmetics-notes",
+            "version": "0.1.0",
+            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Notes/releases/download/v0.1.0/QosmeticsCyoobs.qmod",
+            "source": "https://github.com/Qosmetics/Qosmetics-Notes",
+            "cover": "https://github.com/Qosmetics/Qosmetics-Notes/raw/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+            }
+        },
+        {
+            "name": "Qosmetics Whackers",
+            "description": "Qosmetics module that adds Box capabilities",
+            "id": "qosmetics-sabers",
+            "version": "0.1.0",
+            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Sabers/releases/download/v0.1.0/QosmeticsWhackers.qmod",
+            "source": "https://github.com/Qosmetics/Qosmetics-Sabers",
+            "cover": "https://github.com/Qosmetics/Qosmetics-Sabers/raw/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+            }
+        },
+        {
+            "name": "Qosmetics Boxes",
+            "description": "Qosmetics module that adds Cyoob capabilities",
+            "id": "qosmetics-walls",
+            "version": "0.1.0",
+            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Walls/releases/download/v0.1.0/QosmeticsBoxes.qmod",
+            "source": "https://github.com/Qosmetics/Qosmetics-Walls",
+            "cover": "https://github.com/Qosmetics/Qosmetics-Walls/raw/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
             }
         }
     ]
