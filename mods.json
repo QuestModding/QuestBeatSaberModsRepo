@@ -289,6 +289,32 @@
                 "name": "RedBrumbler",
                 "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
             }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.2.0",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.2.0/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://github.com/EnderdracheLP/QuestSounds/raw/master/Cover.jpg",
+            "author": {
+                "name": "Rugtveit, EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
+            }
+        },
+        {
+            "name": "ClockMod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "ClockMod",
+            "version": "1.6.0",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.6.0/ClockMod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://github.com/EnderdracheLP/ClockMod/raw/main/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety, EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
+            }
         }
     ]
 }
