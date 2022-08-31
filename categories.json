@@ -1,0 +1,7 @@
+{
+  "cosmetic":["qosmetics-notes", "qosmetics-sabers", "qosmetics-walls", "custom-pillows", "QuestSounds"],
+  "gameplay":["NoodleExtensions", "Chroma"],
+  "ui-tweaks":["SearchFixes", "RedBar", "FasterScroll", "RandomSongPicker", "ClockMod"],
+  "streaming":["Streamer-Tools"],
+  "shitpost":["CrashMod"],
+}
