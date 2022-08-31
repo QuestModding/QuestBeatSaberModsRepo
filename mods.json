@@ -229,26 +229,13 @@
             "name": "Chroma",
             "description": "Colors!",
             "id": "chroma",
-            "version": "2.6.0",
-            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.6.0/chroma.qmod",
+            "version": "2.6.4",
+            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.6.4/chroma.qmod",
             "source": "https://github.com/bsq-ports/Chroma/",
-            "cover": "https://github.com/bsq-ports/Chroma/raw/refs/tags/v2.6.0/cover.png",
+            "cover": "https://github.com/bsq-ports/Chroma/raw/refs/tags/v2.6.4/cover.png",
             "author": {
                 "name": "Fernthedev",
                 "icon": "https://avatars.githubusercontent.com/u/15272073?v=4"
-            }
-        },
-        {
-            "name": "Qosmetics Core",
-            "description": "Qosmetics Core module that handles menu placement and generic utils for other modules",
-            "id": "qosmetics-core",
-            "version": "2.0.0",
-            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Core/releases/download/v2.0.0/QosmeticsCore.qmod",
-            "source": "https://github.com/Qosmetics/Qosmetics-Core",
-            "cover": "https://github.com/Qosmetics/Qosmetics-Core/raw/master/cover.png",
-            "author": {
-                "name": "RedBrumbler",
-                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
             }
         },
         {
