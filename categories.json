@@ -3,5 +3,5 @@
   "gameplay":["NoodleExtensions", "Chroma"],
   "ui-tweaks":["SearchFixes", "RedBar", "FasterScroll", "RandomSongPicker", "ClockMod"],
   "streaming":["Streamer-Tools"],
-  "shitpost":["CrashMod"],
+  "shitpost":["CrashMod"]
 }
