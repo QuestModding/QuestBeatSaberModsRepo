@@ -1,6 +1,58 @@
 {
     "1.20.0": [
         {
+            "name": "CrashMod",
+            "description": "Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
+            "id": "CrashMod",
+            "version": "0.6.0",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.6.0/CrashMod.qmod",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/CrashMod/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Clock Mod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "ClockMod",
+            "version": "1.5.3",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.5.3/ClockMod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "Third Person mod",
+            "description": "- Play in third person\r\n- Fix your camera to your saber\r\n- Fix your camera\r\n- Fly through the enviorment",
+            "id": "Play3rdPer",
+            "version": "0.6.0",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.6.0/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "ModList",
+            "description": "Displays your installed mods inside the game and gives you a warning prompt upon starting the game to tell you if a mod failed to load.",
+            "id": "mod-list",
+            "version": "0.1.5",
+            "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/v0.1.5/ModList.qmod",
+            "source": "https://github.com/Lauriethefish/ModList/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/ModList/master/cover.png",
+            "author": {
+                "name": "Lauriethefish",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
             "name": "Thicc Saber",
             "description": "A simple mod which allows you to control the dimensions of notes!",
             "id": "ThiccSaber",
@@ -12,22 +64,100 @@
                 "name": "Bobby Shmurner",
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
             }
+        },
+        {
+            "name": "AnyTweaks",
+            "description": "Level up your Beat Saber experience on Quest! AnyTweaks provides various tweaks to help boost your experience on Quest, such as Bloom, FPS Counter and more.",
+            "id": "anytweaks",
+            "version": "4.0.0",
+            "downloadLink": "https://github.com/ItsKaitlyn03/AnyTweaks/releases/download/v4.0.0/anytweaks_v4.0.0.qmod",
+            "source": "https://github.com/ItsKaitlyn03/AnyTweaks/",
+            "cover": "https://raw.githubusercontent.com/ItsKaitlyn03/AnyTweaks/master/cover.png",
+            "author": {
+                "name": "Kaitlyn,  xyonico",
+                "icon": "https://avatars.githubusercontent.com/ItsKaitlyn03"
+            }
+        },
+        {
+            "name": "BeatLeader",
+            "description": "",
+            "id": "BeatLeader",
+            "version": "0.2.0",
+            "downloadLink": "https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.2.0/BeatLeader.qmod",
+            "source": "https://github.com/BeatLeader/beatleader-qmod/",
+            "cover": "https://raw.githubusercontent.com/BeatLeader/beatleader-qmod/master/cover.png",
+            "author": {
+                "name": "NSGolova",
+                "icon": "https://avatars.githubusercontent.com/BeatLeader"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Allows applications to get information from the game like, currently played song.\r\n\r\nMod Setup video: https://www.youtube.com/watch?v=1OMHjjSi-5s",
+            "id": "Streamer-Tools",
+            "version": "0.3.0",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.4.0/Streamer-Tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
+            "author": {
+                "name": "EnderdracheLP,  ComputerElite,  Lauriethefish,  Phaze",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.1.0/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/QuestSounds/master/Cover.jpg",
+            "author": {
+                "name": "Rugtveit,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "SearchFixes",
+            "description": "An improved search algorithm for Beat Saber",
+            "id": "SearchFixes",
+            "version": "1.2.0",
+            "downloadLink": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/releases/download/v1.2.0/SearchFixes.qmod",
+            "source": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/",
+            "cover": "https://raw.githubusercontent.com/FranciscoRibeiro03/SearchFixesQuest/master/cover.png",
+            "author": {
+                "name": "rui2015",
+                "icon": "https://avatars.githubusercontent.com/FranciscoRibeiro03"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.8.0",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.8.0/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "ChatUI",
+            "description": "Shows your Twitch Chat Ingame",
+            "id": "chatui",
+            "version": "0.2.3",
+            "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/v0.2.3/chatui.qmod",
+            "source": "https://github.com/darknight1050/ChatUI/",
+            "cover": "https://raw.githubusercontent.com/darknight1050/ChatUI/master/cover.png",
+            "author": {
+                "name": "darknight1050",
+                "icon": "https://avatars.githubusercontent.com/darknight1050"
+            }
         }
     ],
     "1.21.0": [
-        {
-            "name": "HitScoreVisualizer",
-            "description": "Customize the text of your scores!",
-            "id": "HitScoreVisualizer",
-            "version": "2.5.0",
-            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.5.0/HitScoreVisualizer.qmod",
-            "source": "https://github.com/Christoffyw/HitScoreVisualizer",
-            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
-            "author": {
-                "name": "Christoffyw, Metalit",
-                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
-            }
-        },
         {
             "name": "Faster Scroll",
             "description": "Find your songs faster with customizable song scrolling.",
@@ -42,29 +172,224 @@
             }
         },
         {
-            "name": "No Promo",
-            "description": "Yeets the promo button on the main menu",
-            "id": "nopromo",
-            "version": "1.1.0",
-            "downloadLink": "https://github.com/cal117/NoPromo/releases/download/1.1.0/NoPromo-1.1.0+1210.qmod",
-            "source": "https://github.com/cal117/NoPromo/",
-            "cover": "https://raw.githubusercontent.com/cal117/NoPromo/master/cover.png",
+            "name": "CrashMod",
+            "description": "Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
+            "id": "CrashMod",
+            "version": "0.7.1",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.7.1/CrashMod.qmod",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/CrashMod/master/cover.png",
             "author": {
-                "name": "cal117",
-                "icon": "https://github.com/cal117.png"
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
             }
         },
         {
-            "name": "BeatSaviorData",
-            "description": "Gives a detailed overview of your performance when finishing a level!",
-            "id": "beatsaviordata",
-            "version": "2.0.0",
-            "downloadLink": "https://github.com/Metalit/QuestBeatSaviourData/releases/download/v2.0.0/BeatSaviorData.qmod",
-            "source": "https://github.com/Metalit/QuestBeatSaviourData/",
-            "cover": "https://github.com/Metalit/QuestBeatSaviourData/blob/176ca5db5b35e6edcf5e8d85bc171cc190ae5328/cover.png",
+            "name": "Clock Mod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "ClockMod",
+            "version": "1.5.4",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.5.4/ClockMod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
             "author": {
-                "name": "Metalit",
-                "icon": "https://avatars.githubusercontent.com/u/48568911?v=4"
+                "name": "BoopetyDoopety,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "Score Percentage",
+            "description": "shows extra information after completing a level",
+            "id": "scorepercentage",
+            "version": "3.1.1",
+            "downloadLink": "https://github.com/Royston1999/ScorePercentage-Quest/releases/download/3.1.1/scorepercentage_v3.1.1.qmod",
+            "source": "https://github.com/Royston1999/ScorePercentage-Quest/",
+            "cover": "https://raw.githubusercontent.com/Royston1999/ScorePercentage-Quest/master/Cover.jpg",
+            "author": {
+                "name": "Polly51104",
+                "icon": "https://avatars.githubusercontent.com/Royston1999"
+            }
+        },
+        {
+            "name": "Third Person mod",
+            "description": "- Play in third person\r\n- Fix your camera to your saber\r\n- Fix your camera\r\n- Fly through the enviorment",
+            "id": "Play3rdPer",
+            "version": "0.7.0",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.7.0/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "FingerSaber",
+            "description": "Beat Saber At Your Finger Tips. @drumtool#4435",
+            "id": "FingerSaber",
+            "version": "0.1.2",
+            "downloadLink": "https://github.com/im-henri/FingerSaber/releases/download/v0.1.2/fingersaber_0.1.2.qmod",
+            "source": "https://github.com/im-henri/FingerSaber/",
+            "cover": "https://raw.githubusercontent.com/im-henri/FingerSaber/master/Cover.jpg",
+            "author": {
+                "name": "Henri",
+                "icon": "https://avatars.githubusercontent.com/im-henri"
+            }
+        },
+        {
+            "name": "Intro Skip",
+            "description": "Skip the intro and outro of maps",
+            "id": "IntroSkip",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/Royston1999/IntroSkip-Quest/releases/download/v1.0.0/IntroSkip_v1.0.0.qmod",
+            "source": "https://github.com/Royston1999/IntroSkip-Quest/",
+            "cover": "https://raw.githubusercontent.com/Royston1999/IntroSkip-Quest/master/Cover.png",
+            "author": {
+                "name": "Polly51104",
+                "icon": "https://avatars.githubusercontent.com/Royston1999"
+            }
+        },
+        {
+            "name": "RandomSongPicker",
+            "description": "Adds a button, that picks a random song out of the current list",
+            "id": "RandomSongPicker",
+            "version": "0.2.0",
+            "downloadLink": "https://github.com/Tatenshi/RandomSongPicker/releases/download/v0.2.0/RandomSongPicker_1_21_0.qmod",
+            "source": "https://github.com/Tatenshi/RandomSongPicker/",
+            "cover": "https://raw.githubusercontent.com/Tatenshi/RandomSongPicker/master/cover.jpg",
+            "author": {
+                "name": "Tatenshi",
+                "icon": "https://avatars.githubusercontent.com/Tatenshi"
+            }
+        },
+        {
+            "name": "AnyTweaks",
+            "description": "Level up your Beat Saber experience on Quest! AnyTweaks provides various tweaks to help boost your experience on Quest, such as Bloom, FPS Counter and more.",
+            "id": "anytweaks",
+            "version": "5.0.1",
+            "downloadLink": "https://github.com/ItsKaitlyn03/AnyTweaks/releases/download/v5.0.1/anytweaks_v5.0.1.qmod",
+            "source": "https://github.com/ItsKaitlyn03/AnyTweaks/",
+            "cover": "https://raw.githubusercontent.com/ItsKaitlyn03/AnyTweaks/master/cover.png",
+            "author": {
+                "name": "Kaitlyn,  xyonico",
+                "icon": "https://avatars.githubusercontent.com/ItsKaitlyn03"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Allows applications to get information from the game like, currently played song.\r\n\r\nMod Setup video: https://www.youtube.com/watch?v=1OMHjjSi-5s",
+            "id": "Streamer-Tools",
+            "version": "0.5.1",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.5.1/Streamer-Tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
+            "author": {
+                "name": "EnderdracheLP,  ComputerElite,  Lauriethefish,  Phaze",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "BeatTogether",
+            "description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+            "id": "BeatTogether",
+            "version": "1.4.0",
+            "downloadLink": "https://github.com/BeatTogether/BeatTogether.Quest/releases/download/v1.4.0/BeatTogether_v1.4.0.qmod",
+            "source": "https://github.com/BeatTogether/BeatTogether.Quest/",
+            "cover": "https://raw.githubusercontent.com/BeatTogether/BeatTogether.Quest/master/Cover.png",
+            "author": {
+                "name": "BeatTogether Team",
+                "icon": "https://avatars.githubusercontent.com/BeatTogether"
+            }
+        },
+        {
+            "name": "MultiplayerCore",
+            "description": "Port of MultiplayerCore, the PC mod that adds features to BeatTogether Multiplayer.",
+            "id": "MultiplayerCore",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.0.0/MultiplayerCore_1.21-1.0.0.qmod",
+            "source": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/MultiplayerCore.Quest/master/Cover.png",
+            "author": {
+                "name": "EnderdracheLP,  cubic, Goobie",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "BeatLeader",
+            "description": "",
+            "id": "BeatLeader",
+            "version": "0.4.0",
+            "downloadLink": "https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.4.0/BeatLeader_1_21_0.qmod",
+            "source": "https://github.com/BeatLeader/beatleader-qmod/",
+            "cover": "https://raw.githubusercontent.com/BeatLeader/beatleader-qmod/master/cover.png",
+            "author": {
+                "name": "NSGolova",
+                "icon": "https://avatars.githubusercontent.com/BeatLeader"
+            }
+        },
+        {
+            "name": "QonsistentSaberColors",
+            "description": "Menu saber colors reflect in game saber colors. @drumtool#4435",
+            "id": "QonsistentSaberColors",
+            "version": "1.1.3",
+            "downloadLink": "https://github.com/im-henri/QonsistentSaberColors/releases/download/v1.1.3/QonsistentSaberColors_1.1.3.qmod",
+            "source": "https://github.com/im-henri/QonsistentSaberColors/",
+            "cover": "https://raw.githubusercontent.com/im-henri/QonsistentSaberColors/master/Cover.jpg",
+            "author": {
+                "name": "Henri",
+                "icon": "https://avatars.githubusercontent.com/im-henri"
+            }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.1.1",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.1.1/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/QuestSounds/master/Cover.jpg",
+            "author": {
+                "name": "Rugtveit,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.9.1",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.9.1/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "SearchFixes",
+            "description": "An improved search algorithm for Beat Saber",
+            "id": "SearchFixes",
+            "version": "1.2.1",
+            "downloadLink": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/releases/download/v1.2.1/SearchFixes.qmod",
+            "source": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/",
+            "cover": "https://raw.githubusercontent.com/FranciscoRibeiro03/SearchFixesQuest/master/cover.png",
+            "author": {
+                "name": "rui2015",
+                "icon": "https://avatars.githubusercontent.com/FranciscoRibeiro03"
+            }
+        },
+        {
+            "name": "HitScoreVisualizer",
+            "description": "Customize the text of your scores!",
+            "id": "HitScoreVisualizer",
+            "version": "2.5.0",
+            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.5.0/HitScoreVisualizer.qmod",
+            "source": "https://github.com/Christoffyw/HitScoreVisualizer",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw, Metalit",
+                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
             }
         },
         {
@@ -81,6 +406,19 @@
             }
         },
         {
+            "name": "ChatUI",
+            "description": "Shows your Twitch Chat Ingame",
+            "id": "chatui",
+            "version": "0.2.4",
+            "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/v0.2.4/chatui.qmod",
+            "source": "https://github.com/darknight1050/ChatUI/",
+            "cover": "https://raw.githubusercontent.com/darknight1050/ChatUI/master/cover.png",
+            "author": {
+                "name": "darknight1050",
+                "icon": "https://avatars.githubusercontent.com/darknight1050"
+            }
+        },
+        {
             "name": "Transitions",
             "description": "Speed up or remove boring transitions in the game",
             "id": "transitions",
@@ -92,33 +430,72 @@
                 "name": "Metalit",
                 "icon": "https://avatars.githubusercontent.com/u/48568911?v=4"
             }
+        },
+        {
+            "name": "BeatSaviorData",
+            "description": "Gives a detailed overview of your performance when finishing a level!",
+            "id": "beatsaviordata",
+            "version": "2.0.0",
+            "downloadLink": "https://github.com/Metalit/QuestBeatSaviourData/releases/download/v2.0.0/BeatSaviorData.qmod",
+            "source": "https://github.com/Metalit/QuestBeatSaviourData/",
+            "cover": "https://github.com/Metalit/QuestBeatSaviourData/blob/176ca5db5b35e6edcf5e8d85bc171cc190ae5328/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/u/48568911?v=4"
+            }
+        },
+        {
+            "name": "No Promo",
+            "description": "Yeets the promo button on the main menu",
+            "id": "nopromo",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/cal117/NoPromo/releases/download/1.1.0/NoPromo-1.1.0+1210.qmod",
+            "source": "https://github.com/cal117/NoPromo/",
+            "cover": "https://raw.githubusercontent.com/cal117/NoPromo/master/cover.png",
+            "author": {
+                "name": "cal117",
+                "icon": "https://github.com/cal117.png"
+            }
         }
     ],
     "1.24.0": [
         {
-            "name": "Custom Pillows",
-            "description": "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC",
-            "id": "custom-pillows",
-            "version": "1.1.0",
-            "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/download/v1.1.0/CustomPillows.qmod",
-            "source": "https://github.com/RedBrumbler/CustomPillowsQuest",
-            "cover": "https://github.com/RedBrumbler/CustomPillowsQuest/blob/master/cover.png?raw=true",
+            "name": "Third Person Mod",
+            "description": "- Play in third person\n- Fix your camera to your saber\n- Fix your camera\n- Fly through the enviorment",
+            "id": "Play3rdPer",
+            "version": "0.8.0",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.8.0/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/main/cover.png",
             "author": {
-                "name": "RedBrumbler",
-                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
             }
         },
         {
-            "name": "SearchFixes",
-            "description": "An improved search algorithm for Beat Saber",
-            "id": "SearchFixes",
-            "version": "1.2.2",
-            "downloadLink": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/releases/download/v1.2.2/SearchFixes.qmod",
-            "source": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/",
-            "cover": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/blob/master/cover.png?raw=true",
+            "name": "Chroma",
+            "description": "Colors!",
+            "id": "chroma",
+            "version": "2.6.4",
+            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.6.4/chroma.qmod",
+            "source": "https://github.com/bsq-ports/Chroma/",
+            "cover": "https://github.com/bsq-ports/Chroma/raw/refs/tags/v2.6.4/cover.png",
             "author": {
-                "name": "rui2015",
-                "icon": "https://avatars.githubusercontent.com/u/15705566?v=4"
+                "name": "Fernthedev",
+                "icon": "https://avatars.githubusercontent.com/u/15272073?v=4"
+            }
+        },
+        {
+            "name": "ClockMod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "ClockMod",
+            "version": "1.6.0",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.6.0/ClockMod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://github.com/EnderdracheLP/ClockMod/raw/main/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety, EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
             }
         },
         {
@@ -135,29 +512,81 @@
             }
         },
         {
-            "name": "Third Person Mod",
-            "description": "- Play in third person\n- Fix your camera to your saber\n- Fix your camera\n- Fly through the enviorment",
-            "id": "Play3rdPer",
-            "version": "0.8.0",
-            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.8.0/Play3rdPer.qmod",
-            "source": "https://github.com/ComputerElite/play3rdper/",
-            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/main/cover.png",
+            "name": "Faster Scroll",
+            "description": "Find your songs faster with customizable song scrolling.",
+            "id": "FasterScroll",
+            "version": "1.6.0",
+            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.6.0/FasterScroll.qmod",
+            "source": "https://github.com/Christoffyw/FasterScrollQuest",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/main/Cover.jpg",
             "author": {
-                "name": "ComputerElite",
-                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+                "name": "Christoffyw",
+                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
             }
         },
         {
-            "name": "RedBar",
-            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
-            "id": "RedBar",
-            "version": "1.10.0",
-            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.10.0/RedBar.qmod",
-            "source": "https://github.com/ComputerElite/RedBar/",
-            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "name": "Intro Skip",
+            "description": "Skip the intro and outro of maps",
+            "id": "IntroSkip",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/Royston1999/IntroSkip-Quest/releases/download/1.0.1/IntroSkip.qmod",
+            "source": "https://github.com/Royston1999/IntroSkip-Quest/",
+            "cover": "https://raw.githubusercontent.com/Royston1999/IntroSkip-Quest/master/Cover.png",
             "author": {
-                "name": "ComputerElite",
-                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+                "name": "Polly51104",
+                "icon": "https://avatars.githubusercontent.com/Royston1999"
+            }
+        },
+        {
+            "name": "Rainbow Quest",
+            "description": "Makes blocks and obstacles rainbow :D. By: Unifox",
+            "id": "RainbowQuest",
+            "version": "0.1.2",
+            "downloadLink": "https://github.com/TheUnifox/RainbowQuest/releases/download/v0.1.2/RainbowQuest.qmod",
+            "source": "https://github.com/TheUnifox/RainbowQuest/",
+            "cover": "https://raw.githubusercontent.com/TheUnifox/RainbowQuest/master/cover.png",
+            "author": {
+                "name": "Unifox",
+                "icon": "https://avatars.githubusercontent.com/TheUnifox"
+            }
+        },
+        {
+            "name": "RandomSongPicker",
+            "description": "Adds a button, that picks a random song out of the current list",
+            "id": "RandomSongPicker",
+            "version": "0.2.1",
+            "downloadLink": "https://github.com/Tatenshi/RandomSongPicker/releases/download/v0.2.1/RandomSongPicker_1_24_0.qmod",
+            "source": "https://github.com/Tatenshi/RandomSongPicker/",
+            "cover": "https://raw.githubusercontent.com/Tatenshi/RandomSongPicker/master/cover.jpg",
+            "author": {
+                "name": "Tatenshi",
+                "icon": "https://avatars.githubusercontent.com/Tatenshi"
+            }
+        },
+        {
+            "name": "AnyTweaks",
+            "description": "Level up your Beat Saber experience on Quest! AnyTweaks provides various tweaks to help boost your experience on Quest, such as Bloom, FPS Counter and more.",
+            "id": "anytweaks",
+            "version": "6.0.0",
+            "downloadLink": "https://github.com/ItsKaitlyn03/AnyTweaks/releases/download/v6.0.0/anytweaks_v6.0.0.qmod",
+            "source": "https://github.com/ItsKaitlyn03/AnyTweaks/",
+            "cover": "https://raw.githubusercontent.com/ItsKaitlyn03/AnyTweaks/master/cover.png",
+            "author": {
+                "name": "Kaitlyn,  xyonico",
+                "icon": "https://avatars.githubusercontent.com/ItsKaitlyn03"
+            }
+        },
+        {
+            "name": "Acculight",
+            "description": "changes the lighting on the result screen depending on the accuracy gained in the song",
+            "id": "acculight",
+            "version": "0.1.1",
+            "downloadLink": "https://github.com/oli-ctrl/acculight/releases/download/v0.1.1/Acculight.qmod",
+            "source": "https://github.com/oli-ctrl/acculight/",
+            "cover": "https://raw.githubusercontent.com/oli-ctrl/acculight/master/cover.png",
+            "author": {
+                "name": "Oli",
+                "icon": "https://avatars.githubusercontent.com/oli-ctrl"
             }
         },
         {
@@ -174,16 +603,29 @@
             }
         },
         {
-            "name": "Faster Scroll",
-            "description": "Find your songs faster with customizable song scrolling.",
-            "id": "FasterScroll",
-            "version": "1.6.0",
-            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.6.0/FasterScroll.qmod",
-            "source": "https://github.com/Christoffyw/FasterScrollQuest",
-            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/main/Cover.jpg",
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.10.0",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.10.0/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
             "author": {
-                "name": "Christoffyw",
-                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
+                "name": "ComputerElite",
+                "icon": "https://computerelite.github.io/assets/CE_512px.png"
+            }
+        },
+        {
+            "name": "BeatLeader",
+            "description": "",
+            "id": "BeatLeader",
+            "version": "0.4.1",
+            "downloadLink": "https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.4.1/BeatLeader_1_24_0.qmod",
+            "source": "https://github.com/BeatLeader/beatleader-qmod/",
+            "cover": "https://raw.githubusercontent.com/BeatLeader/beatleader-qmod/master/cover.png",
+            "author": {
+                "name": "NSGolova",
+                "icon": "https://avatars.githubusercontent.com/BeatLeader"
             }
         },
         {
@@ -200,19 +642,6 @@
             }
         },
         {
-            "name": "RandomSongPicker",
-            "description": "Adds a button, that picks a random song out of the current list",
-            "id": "RandomSongPicker",
-            "version": "0.2.0",
-            "downloadLink": "https://github.com/Tatenshi/RandomSongPicker/releases/download/v0.2.0/RandomSongPicker_1_24_0.qmod",
-            "source": "https://github.com/Tatenshi/RandomSongPicker/",
-            "cover": "https://raw.githubusercontent.com/Tatenshi/RandomSongPicker/main/cover.jpg",
-            "author": {
-                "name": "Tatenshi",
-                "icon": "https://avatars.githubusercontent.com/u/55283269?v=4"
-            }
-        },
-        {
             "name": "NoodleExtensions",
             "description": "This adds a host of new things you can do with your maps. Original mod for PC by Aeroluna. Contributions by Fern and Sc2ad.",
             "id": "NoodleExtensions",
@@ -223,19 +652,110 @@
             "author": {
                 "name": "StackDoubleFlow",
                 "icon": "https://avatars.githubusercontent.com/u/22183359?v=4"
-          }
+            }
         },
         {
-            "name": "Chroma",
-            "description": "Colors!",
-            "id": "chroma",
-            "version": "2.6.4",
-            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.6.4/chroma.qmod",
-            "source": "https://github.com/bsq-ports/Chroma/",
-            "cover": "https://github.com/bsq-ports/Chroma/raw/refs/tags/v2.6.4/cover.png",
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.2.0",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.2.0/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://github.com/EnderdracheLP/QuestSounds/raw/master/Cover.jpg",
             "author": {
-                "name": "Fernthedev",
-                "icon": "https://avatars.githubusercontent.com/u/15272073?v=4"
+                "name": "Rugtveit, EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
+            }
+        },
+        {
+            "name": "SmallQubes",
+            "description": "Your lovely basic cubes but smoll:cheems: \r\n\r\n- Changes the cubes/chains size, hitboxes are the same\r\n- Modifiers compatible\r\n- Will disable itself if Qosmetics cubes installed",
+            "id": "SmallQubes",
+            "version": "0.1.0",
+            "downloadLink": "https://github.com/NSGolova/SmallQubes/releases/download/v0.1.0/SmallQubes.qmod",
+            "source": "https://github.com/NSGolova/SmallQubes/",
+            "cover": "https://raw.githubusercontent.com/NSGolova/SmallQubes/master/cover.png",
+            "author": {
+                "name": "NSGolova",
+                "icon": "https://avatars.githubusercontent.com/NSGolova"
+            }
+        },
+        {
+            "name": "SearchFixes",
+            "description": "An improved search algorithm for Beat Saber",
+            "id": "SearchFixes",
+            "version": "1.2.2",
+            "downloadLink": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/releases/download/v1.2.2/SearchFixes.qmod",
+            "source": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/",
+            "cover": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/blob/master/cover.png?raw=true",
+            "author": {
+                "name": "rui2015",
+                "icon": "https://avatars.githubusercontent.com/u/15705566?v=4"
+            }
+        },
+        {
+            "name": "ChatUI",
+            "description": "Shows your Twitch Chat Ingame",
+            "id": "chatui",
+            "version": "0.2.8",
+            "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/v0.2.8/ChatUI.qmod",
+            "source": "https://github.com/darknight1050/ChatUI/",
+            "cover": "https://raw.githubusercontent.com/darknight1050/ChatUI/master/cover.png",
+            "author": {
+                "name": "darknight1050",
+                "icon": "https://avatars.githubusercontent.com/darknight1050"
+            }
+        },
+        {
+            "name": "Custom Pillows",
+            "description": "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC",
+            "id": "custom-pillows",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/download/v1.1.0/CustomPillows.qmod",
+            "source": "https://github.com/RedBrumbler/CustomPillowsQuest",
+            "cover": "https://github.com/RedBrumbler/CustomPillowsQuest/blob/master/cover.png?raw=true",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+            }
+        },
+        {
+            "name": "HitScoreVisualizer",
+            "description": "Changes the scores that pop up when you hit notes",
+            "id": "HitScoreVisualizer",
+            "version": "2.6.0",
+            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.6.0/HitScoreVisualizer.qmod",
+            "source": "https://github.com/Christoffyw/HitScoreVisualizer/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw,  Metalit",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        },
+        {
+            "name": "JDFixer",
+            "description": "Configure your Jump Distance, Speed, and more with ultra precision!",
+            "id": "jdfixer",
+            "version": "2.1.0",
+            "downloadLink": "https://github.com/Metalit/QuestJDFixer/releases/download/v2.1.0/JDFixer.qmod",
+            "source": "https://github.com/Metalit/QuestJDFixer/",
+            "cover": "https://raw.githubusercontent.com/Metalit/QuestJDFixer/master/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/Metalit"
+            }
+        },
+        {
+            "name": "Qosmetics Boxes",
+            "description": "Qosmetics module that adds Cyoob capabilities",
+            "id": "qosmetics-walls",
+            "version": "0.1.0",
+            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Walls/releases/download/v0.1.0/QosmeticsBoxes.qmod",
+            "source": "https://github.com/Qosmetics/Qosmetics-Walls",
+            "cover": "https://github.com/Qosmetics/Qosmetics-Walls/raw/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
             }
         },
         {
@@ -265,42 +785,1592 @@
             }
         },
         {
-            "name": "Qosmetics Boxes",
-            "description": "Qosmetics module that adds Cyoob capabilities",
-            "id": "qosmetics-walls",
-            "version": "0.1.0",
-            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Walls/releases/download/v0.1.0/QosmeticsBoxes.qmod",
-            "source": "https://github.com/Qosmetics/Qosmetics-Walls",
-            "cover": "https://github.com/Qosmetics/Qosmetics-Walls/raw/master/cover.png",
+            "name": "Qounters-",
+            "description": "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.",
+            "id": "qounters-minus",
+            "version": "1.2.0",
+            "downloadLink": "https://github.com/Metalit/bsq-qounters-minus/releases/download/v1.2.0/Qounters-.qmod",
+            "source": "https://github.com/Metalit/bsq-qounters-minus/",
+            "cover": "https://raw.githubusercontent.com/Metalit/bsq-qounters-minus/master/cover.png",
             "author": {
-                "name": "RedBrumbler",
-                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+                "name": "Metalit,  danrouse",
+                "icon": "https://avatars.githubusercontent.com/Metalit"
+            }
+        },
+        {
+            "name": "Transitions",
+            "description": "Speed up or remove boring transitions in the game",
+            "id": "transitions",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/Metalit/Transitions/releases/download/v1.1.0/Transitions.qmod",
+            "source": "https://github.com/Metalit/Transitions/",
+            "cover": "https://raw.githubusercontent.com/Metalit/Transitions/master/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/Metalit"
+            }
+        }
+    ],
+    "1.17.1": [
+        {
+            "name": "Better Saber Qolors",
+            "description": "Allows for a better experience when choosing your saber colors",
+            "id": "BetterSaberQolors",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/Ohdeymus/BetterSaberQolors/releases/download/V1.0.0/BetterSaberQolors_v1.0.0.qmod",
+            "source": "https://github.com/Ohdeymus/BetterSaberQolors/",
+            "cover": "https://raw.githubusercontent.com/Ohdeymus/BetterSaberQolors/master/cover.png",
+            "author": {
+                "name": "Bobby Shmurner",
+                "icon": "https://avatars.githubusercontent.com/Ohdeymus"
+            }
+        },
+        {
+            "name": "Burnout",
+            "description": "Allows for full customization of saber burn marks.",
+            "id": "Burnout",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/Raemien/BurnoutQuest/releases/download/v1.0.1/Burnout.qmod",
+            "source": "https://github.com/Raemien/BurnoutQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/BurnoutQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "FingerSaber",
+            "description": "Beat Saber At Your Finger Tips. @drumtool#4435",
+            "id": "FingerSaber",
+            "version": "0.1.1",
+            "downloadLink": "https://github.com/im-henri/FingerSaber/releases/download/v0.1.1/FingerSaber_v0.1.1.qmod",
+            "source": "https://github.com/im-henri/FingerSaber/",
+            "cover": "https://raw.githubusercontent.com/im-henri/FingerSaber/master/Cover.jpg",
+            "author": {
+                "name": "Henri",
+                "icon": "https://avatars.githubusercontent.com/im-henri"
+            }
+        },
+        {
+            "name": "Chroma",
+            "description": "Colors!",
+            "id": "chroma",
+            "version": "2.5.7",
+            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.5.7/chroma.qmod",
+            "source": "https://github.com/bsq-ports/Chroma/",
+            "cover": "https://raw.githubusercontent.com/bsq-ports/Chroma/master/cover.png",
+            "author": {
+                "name": "FernTheDev,  nyamimi~, Aeroluna",
+                "icon": "https://avatars.githubusercontent.com/bsq-ports"
+            }
+        },
+        {
+            "name": "Clock Mod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "clockmod",
+            "version": "1.5.1",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.5.1/clockmod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "Faster Scroll",
+            "description": "Find your song faster with this customizable faster scrolling mod.",
+            "id": "fasterscroll",
+            "version": "1.3.0",
+            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.3.0/fasterscroll_v1.3.0.qmod",
+            "source": "https://github.com/Christoffyw/FasterScrollQuest/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        },
+        {
+            "name": "Third Person mod",
+            "description": "- Play in third person\r\n- Fix your camera to your saber\r\n- Fix your camera\r\n- Fly through the enviorment",
+            "id": "Play3rdPer",
+            "version": "0.4.1",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.4.1/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "MRCPlus",
+            "description": "Unlock additional options for Oculus Mixed Reality Capture. Requires a PC running the MRC OBS plugin.",
+            "id": "MRCPlus",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/Raemien/MRCPlus/releases/download/v1.0.1/MRCPlus.qmod",
+            "source": "https://github.com/Raemien/MRCPlus/",
+            "cover": "https://raw.githubusercontent.com/Raemien/MRCPlus/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Note Vortex",
+            "description": "It's back and it's not broken this time!\r\n\r\nEver wanted notes bigger than the sun? No? Well here you go anyway!\r\n\r\nA very simple mod that has options for:\r\n     - world rotation that rotates your world by 1 degree every time a note spawns (Credit to Phish, his guide is lower down)\r\n     - A fun note effect that causes notes to spawn beneath you and swirl upwards.\r\n     - A multiplier for your note size, allowing you to make the notes bigger than the sun or smaller than your brain!",
+            "id": "noteVortex",
+            "version": "0.1.1",
+            "downloadLink": "https://github.com/AllyPallyUK/NoteVortex/releases/download/V1.0.2/noteVortex_v0.1.2.qmod",
+            "source": "https://github.com/AllyPallyUK/NoteVortex/",
+            "cover": "https://raw.githubusercontent.com/AllyPallyUK/NoteVortex/master/cover.png",
+            "author": {
+                "name": "AllyPallyUK",
+                "icon": "https://avatars.githubusercontent.com/AllyPallyUK"
+            }
+        },
+        {
+            "name": "Score Percentage",
+            "description": "shows extra information after completing a level",
+            "id": "scorepercentage",
+            "version": "3.0.0",
+            "downloadLink": "https://github.com/Royston1999/ScorePercentage-Quest/releases/download/3.0.0/scorepercentage_v3.0.0.qmod",
+            "source": "https://github.com/Royston1999/ScorePercentage-Quest/",
+            "cover": "https://raw.githubusercontent.com/Royston1999/ScorePercentage-Quest/master/Cover.jpg",
+            "author": {
+                "name": "Polly51104",
+                "icon": "https://avatars.githubusercontent.com/Royston1999"
+            }
+        },
+        {
+            "name": "ModList",
+            "description": "Displays your installed mods inside the game and gives you a warning prompt upon starting the game to tell you if a mod failed to load.",
+            "id": "mod-list",
+            "version": "0.1.4",
+            "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.4/mod-list_v0.1.4.qmod",
+            "source": "https://github.com/Lauriethefish/ModList/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/ModList/master/cover.png",
+            "author": {
+                "name": "Lauriethefish",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "AikaTweaks",
+            "description": "Various tweaks for Beat Saber.",
+            "id": "aikatweaks",
+            "version": "3.0.0",
+            "downloadLink": "https://github.com/ItsKaitlyn03/AnyTweaks/releases/download/v3.0.0/aikatweaks_v3.0.0.qmod",
+            "source": "https://github.com/ItsKaitlyn03/AnyTweaks/",
+            "cover": "https://raw.githubusercontent.com/ItsKaitlyn03/AnyTweaks/master/cover.png",
+            "author": {
+                "name": "Aika,  xyonico",
+                "icon": "https://avatars.githubusercontent.com/ItsKaitlyn03"
+            }
+        },
+        {
+            "name": "Technicolour",
+            "description": "Yes, it's colour with a U\r\n\r\nUltra-customisable rainbow lights/sabers/walls/blocks/bombs mod, originally made by Aeroluna for PC.\r\nSettings are accessible in the gameplay setup tab.\r\n\r\nPorted for the questmas trivia event.",
+            "id": "technicolour",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/Lauriethefish/Technicolour/releases/download/1.0.0/Technicolour.qmod",
+            "source": "https://github.com/Lauriethefish/Technicolour/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/Technicolour/master/cover.jpg",
+            "author": {
+                "name": "Lauriethefish, Aeroluna",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "Thicc Saber",
+            "description": "A simple mod which allows you to control the dimensions of notes!",
+            "id": "ThiccSaber",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/Ohdeymus/ThiccSaber/releases/download/v1.0.0/ThiccSaber_v1.0.0.qmod",
+            "source": "https://github.com/Ohdeymus/ThiccSaber/",
+            "cover": "https://raw.githubusercontent.com/Ohdeymus/ThiccSaber/master/cover.png",
+            "author": {
+                "name": "Bobby Shmurner",
+                "icon": "https://avatars.githubusercontent.com/Ohdeymus"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Allows applications to get information from the game like, currently played song.",
+            "id": "streamer-tools",
+            "version": "0.2.1",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.2.1/streamer-tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
+            "author": {
+                "name": "EnderdracheLP,  ComputerElite,  Lauriethefish,  Phaze",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "BeatLeader",
+            "description": "",
+            "id": "BeatLeader",
+            "version": "0.4.1",
+            "downloadLink": "https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.4.1/BeatLeader_1_17_1.qmod",
+            "source": "https://github.com/BeatLeader/beatleader-qmod/",
+            "cover": "https://raw.githubusercontent.com/BeatLeader/beatleader-qmod/master/cover.png",
+            "author": {
+                "name": "NSGolova",
+                "icon": "https://avatars.githubusercontent.com/BeatLeader"
+            }
+        },
+        {
+            "name": "BeatTogether",
+            "description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+            "id": "BeatTogether",
+            "version": "1.3.0",
+            "downloadLink": "https://github.com/pythonology/BeatTogether.Quest/releases/download/v1.3.0/BeatTogether_v1.3.0.qmod",
+            "source": "https://github.com/pythonology/BeatTogether.Quest/",
+            "cover": "https://raw.githubusercontent.com/pythonology/BeatTogether.Quest/master/Cover.png",
+            "author": {
+                "name": "BeatTogether Team",
+                "icon": "https://avatars.githubusercontent.com/pythonology"
+            }
+        },
+        {
+            "name": "Custom Backgrounds",
+            "description": "Import your own 360 images as custom skyboxes!\nScans the 'CustomBackgrounds' ModData folder for imported images.",
+            "id": "CustomBackgrounds",
+            "version": "1.3.2",
+            "downloadLink": "https://github.com/Raemien/CustomBackgroundsQuest/releases/download/v1.3.2/CustomBackgrounds.qmod",
+            "source": "https://github.com/Raemien/CustomBackgroundsQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/CustomBackgroundsQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "CustomFailText",
+            "description": "Allows you to customise the text that you see when you fail a level.",
+            "id": "custom-fail-text",
+            "version": "0.1.11",
+            "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.11/custom-fail-text_v0.1.11.qmod",
+            "source": "https://github.com/Lauriethefish/CustomFailText/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/CustomFailText/master/cover.png",
+            "author": {
+                "name": "Lauriethefish",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "DebrisTweaks",
+            "description": "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.",
+            "id": "DebrisTweaks",
+            "version": "1.1.2",
+            "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/download/v1.1.2/DebrisTweaks.qmod",
+            "source": "https://github.com/Raemien/DebrisTweaksQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/DebrisTweaksQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Discord Presence",
+            "description": "Allows discord rich presence to see which song you're playing, the current time, and much more.\r\n\r\nMod Installation: https://github.com/Lauriethefish/Quest-Discord-Presence-Client/blob/main/README.md\r\nYou must follow this to set up the client on your PC and the mod on your Quest.\r\nIf you get a virus warning during installation, ignore it, this isn't a virus - Windows is oversensitive.\r\n\r\nAlternatively, follow this guide to use MadMagic's app for general presence of any Quest app: https://github.com/madmagic007/Oculus-Quest-Presence\r\n\r\nIf it's not working, try these:\r\n- Make sure your Quest IP hasn't changed, if so, update it in the app, see installation.\r\n- Make sure you've opened the app.\r\n- Make sure Beat Saber is open and your headset is on your head.\r\n- You have discord on your PC not in the browser.\r\n- Try restarting discord.",
+            "id": "discord-presence",
+            "version": "0.3.5",
+            "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence/releases/download/0.3.5/discord-presence_v0.3.5.qmod",
+            "source": "https://github.com/Lauriethefish/Quest-Discord-Presence/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/Quest-Discord-Presence/master/cover.png",
+            "author": {
+                "name": "Lauriethefish#6700",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "QonsistentSaberColors",
+            "description": "Menu saber colors reflect in game saber colors. @drumtool#4435",
+            "id": "QonsistentSaberColors",
+            "version": "1.1.1",
+            "downloadLink": "https://github.com/im-henri/QonsistentSaberColors/releases/download/v1.1.1/QonsistentSaberColors_v1.1.1.qmod",
+            "source": "https://github.com/im-henri/QonsistentSaberColors/",
+            "cover": "https://raw.githubusercontent.com/im-henri/QonsistentSaberColors/master/Cover.jpg",
+            "author": {
+                "name": "Henri",
+                "icon": "https://avatars.githubusercontent.com/im-henri"
             }
         },
         {
             "name": "QuestSounds",
             "description": "Allows users to change their sfx sounds and in-game music easily!",
             "id": "QuestSounds",
-            "version": "1.2.0",
-            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.2.0/QuestSounds.qmod",
+            "version": "1.0.3",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.0.3/QuestSounds.qmod",
             "source": "https://github.com/EnderdracheLP/QuestSounds/",
-            "cover": "https://github.com/EnderdracheLP/QuestSounds/raw/master/Cover.jpg",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/QuestSounds/master/Cover.jpg",
             "author": {
-                "name": "Rugtveit, EnderdracheLP",
-                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
+                "name": "Rugtveit,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
             }
         },
         {
-            "name": "ClockMod",
+            "name": "NoodleExtensions",
+            "description": "This adds a host of new things you can do with your maps. Original mod for PC by Aeroluna. Contributions by Fern and Sc2ad.",
+            "id": "NoodleExtensions",
+            "version": "1.0.0-beta1",
+            "downloadLink": "https://github.com/StackDoubleFlow/NoodleExtensions/releases/download/v1.0.0/noodle_extensions.qmod",
+            "source": "https://github.com/StackDoubleFlow/NoodleExtensions/",
+            "cover": "https://raw.githubusercontent.com/StackDoubleFlow/NoodleExtensions/master/cover.png",
+            "author": {
+                "name": "StackDoubleFlow",
+                "icon": "https://avatars.githubusercontent.com/StackDoubleFlow"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.6.0",
+            "downloadLink": "https://github.com/ComputerElite/Redbar/releases/download/1.6.0/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/Redbar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/Redbar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "SearchFixes",
+            "description": "An improved search algorithm for Beat Saber",
+            "id": "SearchFixes",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/rui2015/SearchFixesQuest/releases/download/v1.0.0/SearchFixes.qmod",
+            "source": "https://github.com/rui2015/SearchFixesQuest/",
+            "cover": "https://raw.githubusercontent.com/rui2015/SearchFixesQuest/master/cover.png",
+            "author": {
+                "name": "rui2015",
+                "icon": "https://avatars.githubusercontent.com/rui2015"
+            }
+        },
+        {
+            "name": "ParticleTuner",
+            "description": "A partial port of the Particle Overdrive mod from PC with colorful sparckles and custom parameters including ambiend dust.",
+            "id": "ParticleTuner",
+            "version": "1.17.1-211118",
+            "downloadLink": "https://github.com/SuperMarcus/QuestParticleTuner/releases/download/v1.17.1/ParticleTuner-v1.17.1-211118.qmod",
+            "source": "https://github.com/SuperMarcus/QuestParticleTuner/",
+            "cover": "https://raw.githubusercontent.com/SuperMarcus/QuestParticleTuner/master/cover.gif",
+            "author": {
+                "name": "Marcus Zhou,  Mioki",
+                "icon": "https://avatars.githubusercontent.com/SuperMarcus"
+            }
+        },
+        {
+            "name": "ChatUI",
+            "description": "Shows your Twitch Chat Ingame",
+            "id": "chatui",
+            "version": "0.2.2",
+            "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/v0.2.2/chatui.qmod",
+            "source": "https://github.com/darknight1050/ChatUI/",
+            "cover": "https://raw.githubusercontent.com/darknight1050/ChatUI/master/cover.png",
+            "author": {
+                "name": "darknight1050",
+                "icon": "https://avatars.githubusercontent.com/darknight1050"
+            }
+        },
+        {
+            "name": "Inverted Arrows",
+            "description": "Customize all arrow directions on a beatmap",
+            "id": "InvertedArrows",
+            "version": "1.0.5",
+            "downloadLink": "https://github.com/RedBrumbler/InvertedArrows/releases/download/v1.0.5/InvertedArrows.qmod",
+            "source": "https://github.com/RedBrumbler/InvertedArrows/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/InvertedArrows/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Anti Vertigo",
+            "description": "Spawn a bigger base platform for people with vertigo so they can play comfortably",
+            "id": "AntiVertigo",
+            "version": "1.0.3",
+            "downloadLink": "https://github.com/RedBrumbler/AntiVertigo/releases/download/v1.0.3/AntiVertigo.qmod",
+            "source": "https://github.com/RedBrumbler/AntiVertigo/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/AntiVertigo/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "BeatSaviorData",
+            "description": "Gives a detailed overview of your performance when finishing a level!",
+            "id": "beatsaviordata",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/Metalit/QuestBeatSaviourData/releases/download/v.1.1.0/BeatSaviorJustData.qmod",
+            "source": "https://github.com/Metalit/QuestBeatSaviourData/",
+            "cover": "https://raw.githubusercontent.com/Metalit/QuestBeatSaviourData/master/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/Metalit"
+            }
+        },
+        {
+            "name": "Hot-Swappable Mods",
+            "description": "Allows you to easily reload mods from in game",
+            "id": "HotSwappableMods",
+            "version": "2.0.0",
+            "downloadLink": "https://github.com/BobbyShmurner/HotSwappableMods/releases/download/v2.0.0/Hot-Swappable_Mods-v2.0.0.qmod",
+            "source": "https://github.com/BobbyShmurner/HotSwappableMods/",
+            "cover": "https://raw.githubusercontent.com/BobbyShmurner/HotSwappableMods/master/cover.png",
+            "author": {
+                "name": "Bobby Shmurner",
+                "icon": "https://avatars.githubusercontent.com/BobbyShmurner"
+            }
+        },
+        {
+            "name": "Custom Pillows",
+            "description": "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC",
+            "id": "CustomPillows",
+            "version": "1.0.4",
+            "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/download/v1.0.4/CustomPillows.qmod",
+            "source": "https://github.com/RedBrumbler/CustomPillowsQuest/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/CustomPillowsQuest/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Hit Score Visualizer",
+            "description": "Changes the scores that pop up when you hit notes.",
+            "id": "hitscore",
+            "version": "2.3.0",
+            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.3.0/HitScoreVisualizer_v2.3.0.qmod",
+            "source": "https://github.com/Christoffyw/HitScoreVisualizer/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw and Metalit",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        },
+        {
+            "name": "JDFixer",
+            "description": "This mod allows you to change the spawn offset of any map at will to a desired jump distance. Features also include setting the jump distance to the map's default or to a configurable reaction time.\r\n\r\nThis is a port of the PC mod with the same name, created by Zephyr: https://discord.com/channels/441805394323439646/889894313763422218/895936512938623056\r\nIf you find any bugs, please let me know.\r\n",
+            "id": "JDFixer",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/Metalit/QuestJDFixer/releases/download/v1.1.0/JDFixer.qmod",
+            "source": "https://github.com/Metalit/QuestJDFixer/",
+            "cover": "https://raw.githubusercontent.com/Metalit/QuestJDFixer/master/cover.png",
+            "author": {
+                "name": "Metalit",
+                "icon": "https://avatars.githubusercontent.com/Metalit"
+            }
+        },
+        {
+            "name": "Qosmetics",
+            "description": "Quest Cosmetics on a whole new level!",
+            "id": "Qosmetics",
+            "version": "1.3.3",
+            "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/v1.3.3/Qosmetics.qmod",
+            "source": "https://github.com/RedBrumbler/Qosmetics/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/Qosmetics/master/cover.gif",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        }
+    ],
+    "1.19.1": [
+        {
+            "name": "Chroma",
+            "description": "Colors!",
+            "id": "chroma",
+            "version": "2.5.7-q5",
+            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.5.8/chroma.qmod",
+            "source": "https://github.com/bsq-ports/Chroma/",
+            "cover": "https://raw.githubusercontent.com/bsq-ports/Chroma/master/cover.png",
+            "author": {
+                "name": "FernTheDev,  nyamimi~, Aeroluna",
+                "icon": "https://avatars.githubusercontent.com/bsq-ports"
+            }
+        },
+        {
+            "name": "CrashMod",
+            "description": "Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
+            "id": "CrashMod",
+            "version": "0.5.0",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.5.0/CrashMod.qmod",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/CrashMod/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Third Person mod",
+            "description": "- Play in third person\r\n- Fix your camera to your saber\r\n- Fix your camera\r\n- Fly through the enviorment",
+            "id": "Play3rdPer",
+            "version": "0.5.0",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.5.0/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Clock Mod",
             "description": "Displays the time in game. Alternatively also the Battery Percentage",
             "id": "ClockMod",
-            "version": "1.6.0",
-            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.6.0/ClockMod.qmod",
+            "version": "1.5.2",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.5.2/ClockMod.qmod",
             "source": "https://github.com/EnderdracheLP/ClockMod/",
-            "cover": "https://github.com/EnderdracheLP/ClockMod/raw/main/Cover.jpg",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
             "author": {
-                "name": "BoopetyDoopety, EnderdracheLP",
-                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
+                "name": "BoopetyDoopety,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "NoodleExtensions",
+            "description": "This adds a host of new things you can do with your maps. Original mod for PC by Aeroluna. Contributions by Fern and Sc2ad.",
+            "id": "NoodleExtensions",
+            "version": "1.0.0-beta1",
+            "downloadLink": "https://github.com/StackDoubleFlow/NoodleExtensions/releases/download/v1.1.0/noodleextensions.qmod",
+            "source": "https://github.com/StackDoubleFlow/NoodleExtensions/",
+            "cover": "https://raw.githubusercontent.com/StackDoubleFlow/NoodleExtensions/master/cover.png",
+            "author": {
+                "name": "StackDoubleFlow",
+                "icon": "https://avatars.githubusercontent.com/StackDoubleFlow"
+            }
+        },
+        {
+            "name": "BeatLeader",
+            "description": "",
+            "id": "BeatLeader",
+            "version": "0.3.0",
+            "downloadLink": "https://github.com/BeatLeader/beatleader-qmod/releases/download/v0.3.0/BeatLeader_1_19_1.qmod",
+            "source": "https://github.com/BeatLeader/beatleader-qmod/",
+            "cover": "https://raw.githubusercontent.com/BeatLeader/beatleader-qmod/master/cover.png",
+            "author": {
+                "name": "NSGolova",
+                "icon": "https://avatars.githubusercontent.com/BeatLeader"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Allows applications to get information from the game like, currently played song.\r\n\r\nMod Setup video: https://www.youtube.com/watch?v=1OMHjjSi-5s",
+            "id": "Streamer-Tools",
+            "version": "0.3.0",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.3.0/Streamer-Tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
+            "author": {
+                "name": "EnderdracheLP,  ComputerElite,  Lauriethefish,  Phaze",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.0.4",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.0.4/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/QuestSounds/master/Cover.jpg",
+            "author": {
+                "name": "Rugtveit,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "SearchFixes",
+            "description": "An improved search algorithm for Beat Saber",
+            "id": "SearchFixes",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/releases/download/v1.0.1/SearchFixes.qmod",
+            "source": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/",
+            "cover": "https://raw.githubusercontent.com/FranciscoRibeiro03/SearchFixesQuest/master/cover.png",
+            "author": {
+                "name": "rui2015",
+                "icon": "https://avatars.githubusercontent.com/FranciscoRibeiro03"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.7.0",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.7.0/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "HitScoreVisualizer",
+            "description": "Changes the scores that pop up when you hit notes",
+            "id": "HitScoreVisualizer",
+            "version": "2.4.0",
+            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.4.0/HitScoreVisualizer.qmod",
+            "source": "https://github.com/Christoffyw/HitScoreVisualizer/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw,  Metalit",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        }
+    ],
+    "1.19.0": [],
+    "1.17.0": [
+        {
+            "name": "MRCPlus",
+            "description": "Unlock additional options for Oculus Mixed Reality Capture. Requires a PC running the MRC OBS plugin.",
+            "id": "MRCPlus",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/Raemien/MRCPlus/releases/download/v1.0.0/MRCPlus.qmod",
+            "source": "https://github.com/Raemien/MRCPlus/",
+            "cover": "https://raw.githubusercontent.com/Raemien/MRCPlus/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Faster Scroll",
+            "description": "Find your song faster with this customizable faster scrolling mod.",
+            "id": "fasterscroll",
+            "version": "1.2.0",
+            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.2.0/fasterscroll_v1.2.0.qmod",
+            "source": "https://github.com/Christoffyw/FasterScrollQuest/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        },
+        {
+            "name": "Qounters-",
+            "description": "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.",
+            "id": "qounters-minus",
+            "version": "1.1.2",
+            "downloadLink": "https://github.com/danrouse/bsq-qounters-minus/releases/download/v1.1.2/qounters-minus_v1.1.2.qmod",
+            "source": "https://github.com/danrouse/bsq-qounters-minus/",
+            "cover": "https://raw.githubusercontent.com/danrouse/bsq-qounters-minus/master/cover.png",
+            "author": {
+                "name": "Metalit,  danrouse",
+                "icon": "https://avatars.githubusercontent.com/danrouse"
+            }
+        },
+        {
+            "name": "CrashMod",
+            "description": "Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
+            "id": "CrashMod",
+            "version": "0.3.0",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.3.0/CrashMod.qmod",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/CrashMod/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Third Person mod",
+            "description": "- Play in third person\r\n- Fix your camera to your saber\r\n- Fix your camera\r\n- Fly through the enviorment",
+            "id": "Play3rdPer",
+            "version": "0.3.0",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.3.0/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Clock Mod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "clockmod",
+            "version": "1.5.0",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.5.0/Clockmod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "ModList",
+            "description": "Displays your installed mods inside the game and gives you a warning prompt upon starting the game to tell you if a mod failed to load.",
+            "id": "mod-list",
+            "version": "0.1.3",
+            "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.3/mod-list_v0.1.3.qmod",
+            "source": "https://github.com/Lauriethefish/ModList/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/ModList/master/cover.png",
+            "author": {
+                "name": "Lauriethefish",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "Custom Backgrounds",
+            "description": "Import your own 360 images as custom skyboxes!\nScans the 'CustomBackgrounds' ModData folder for imported images.",
+            "id": "CustomBackgrounds",
+            "version": "1.3.1",
+            "downloadLink": "https://github.com/Raemien/CustomBackgroundsQuest/releases/download/v1.3.1/CustomBackgrounds.qmod",
+            "source": "https://github.com/Raemien/CustomBackgroundsQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/CustomBackgroundsQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "CustomFailText",
+            "description": "Allows you to customise the text that you see when you fail a level.",
+            "id": "custom-fail-text",
+            "version": "0.1.10",
+            "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.10/custom-fail-text_v0.1.10.qmod",
+            "source": "https://github.com/Lauriethefish/CustomFailText/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/CustomFailText/master/cover.png",
+            "author": {
+                "name": "Lauriethefish",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "DebrisTweaks",
+            "description": "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.",
+            "id": "DebrisTweaks",
+            "version": "1.1.1",
+            "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/download/v1.1.1/DebrisTweaks.qmod",
+            "source": "https://github.com/Raemien/DebrisTweaksQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/DebrisTweaksQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Discord Presence",
+            "description": "Allows discord rich presence to see which song you're playing, the current time, and much more.\r\n\r\nMod Installation: https://github.com/Lauriethefish/Quest-Discord-Presence-Client/blob/main/README.md\r\nYou must follow this to set up the client on your PC and the mod on your Quest.\r\nIf you get a virus warning during installation, ignore it, this isn't a virus - Windows is oversensitive.\r\n\r\nAlternatively, follow this guide to use MadMagic's app for general presence of any Quest app: https://github.com/madmagic007/Oculus-Quest-Presence\r\n\r\nIf it's not working, try these:\r\n- Make sure your Quest IP hasn't changed, if so, update it in the app, see installation.\r\n- Make sure you've opened the app.\r\n- Make sure Beat Saber is open and your headset is on your head.\r\n- You have discord on your PC not in the browser.\r\n- Try restarting discord.",
+            "id": "discord-presence",
+            "version": "0.3.4",
+            "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence/releases/download/0.3.4/discord-presence_v0.3.4.qmod",
+            "source": "https://github.com/Lauriethefish/Quest-Discord-Presence/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/Quest-Discord-Presence/master/cover.png",
+            "author": {
+                "name": "Lauriethefish#6700",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Allows applications to get information from the game like, currently played song.",
+            "id": "streamer-tools",
+            "version": "0.2.0",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.2.0/streamer-tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
+            "author": {
+                "name": "EnderdracheLP,  ComputerElite,  Lauriethefish,  Phaze",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.0.1/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/QuestSounds/master/Cover.jpg",
+            "author": {
+                "name": "Rugtveit,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.5.0",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.5.0/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "ChatUI",
+            "description": "Shows your Twitch Chat Ingame",
+            "id": "chatui",
+            "version": "0.2.1",
+            "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/v0.2.1/chatui.qmod",
+            "source": "https://github.com/darknight1050/ChatUI/",
+            "cover": "https://raw.githubusercontent.com/darknight1050/ChatUI/master/cover.png",
+            "author": {
+                "name": "darknight1050",
+                "icon": "https://avatars.githubusercontent.com/darknight1050"
+            }
+        },
+        {
+            "name": "Hit Score Visualizer",
+            "description": "Changes the scores that pop up when you hit notes.",
+            "id": "hitscore",
+            "version": "2.1.0",
+            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/2.1.0/HitScoreVisualizer_v2.1.0.qmod",
+            "source": "https://github.com/Christoffyw/HitScoreVisualizer/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw and Metalit",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        }
+    ],
+    "1.16.4": [
+        {
+            "name": "Faster Scroll",
+            "description": "Find your song faster with this customizable faster scrolling mod.",
+            "id": "fasterscroll",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.1.0/fasterscroll_v1.1.0.qmod",
+            "source": "https://github.com/Christoffyw/FasterScrollQuest/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        },
+        {
+            "name": "Qounters-",
+            "description": "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.",
+            "id": "qounters-minus",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/danrouse/bsq-qounters-minus/releases/download/1.1.0/qounters-minus_v1.1.0.qmod",
+            "source": "https://github.com/danrouse/bsq-qounters-minus/",
+            "cover": "https://raw.githubusercontent.com/danrouse/bsq-qounters-minus/master/cover.png",
+            "author": {
+                "name": "Metalit,  danrouse",
+                "icon": "https://avatars.githubusercontent.com/danrouse"
+            }
+        },
+        {
+            "name": "Chroma",
+            "description": "Colors!",
+            "id": "chroma",
+            "version": "2.4.10",
+            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/2.4.10q3/chroma_v2.4.10q3.qmod",
+            "source": "https://github.com/bsq-ports/Chroma/",
+            "cover": "https://raw.githubusercontent.com/bsq-ports/Chroma/master/cover.png",
+            "author": {
+                "name": "FernTheDev,  nyamimi~, Aeroluna",
+                "icon": "https://avatars.githubusercontent.com/bsq-ports"
+            }
+        },
+        {
+            "name": "CrashMod",
+            "description": "Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
+            "id": "CrashMod",
+            "version": "0.2.1",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.2.1/CrashMod.qmod",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/CrashMod/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Third Person Mod",
+            "description": "View yourself in 3rd person while playing. Features include a spinning camera, flying through the whole beat saber environment and way more",
+            "id": "play3rdper",
+            "version": "0.2.1",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.2.1/Play3rdPer.qmod",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Clock Mod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "clockmod",
+            "version": "1.4.0",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.4.0/Clockmod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "ModList",
+            "description": "Displays your installed mods inside the game and gives you a warning prompt upon starting the game to tell you if a mod failed to load.",
+            "id": "mod-list",
+            "version": "0.1.2",
+            "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.2/mod-list_v0.1.2.qmod",
+            "source": "https://github.com/Lauriethefish/ModList/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/ModList/master/cover.png",
+            "author": {
+                "name": "Lauriethefish",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "QonsistentSaberColors",
+            "description": "Menu saber colors reflect in game saber colors. @drumtool#4435",
+            "id": "QonsistentSaberColors",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/im-henri/QonsistentSaberColors/releases/download/release1.1.0/QonsistentSaberColors_v1.1.0.qmod",
+            "source": "https://github.com/im-henri/QonsistentSaberColors/",
+            "cover": "https://raw.githubusercontent.com/im-henri/QonsistentSaberColors/master/Cover.jpg",
+            "author": {
+                "name": "Henri",
+                "icon": "https://avatars.githubusercontent.com/im-henri"
+            }
+        },
+        {
+            "name": "Custom Backgrounds",
+            "description": "Import your own 360 images as custom skyboxes!\nScans the 'CustomBackgrounds' ModData folder for imported images.",
+            "id": "CustomBackgrounds",
+            "version": "1.3.0",
+            "downloadLink": "https://github.com/Raemien/CustomBackgroundsQuest/releases/download/v1.3.0/CustomBackgrounds.qmod",
+            "source": "https://github.com/Raemien/CustomBackgroundsQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/CustomBackgroundsQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "CustomFailText",
+            "description": "Allows you to customise the text that you see when you fail a level.",
+            "id": "custom-fail-text",
+            "version": "0.1.9",
+            "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.9/custom-fail-text_v0.1.9.qmod",
+            "source": "https://github.com/Lauriethefish/CustomFailText/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/CustomFailText/master/cover.png",
+            "author": {
+                "name": "Lauriethefish",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "DebrisTweaks",
+            "description": "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.",
+            "id": "DebrisTweaks",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/download/v1.1.0/DebrisTweaks.qmod",
+            "source": "https://github.com/Raemien/DebrisTweaksQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/DebrisTweaksQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Discord Presence",
+            "description": "Allows discord rich presence to see which song you're playing, the current time, and much more.\r\n\r\nMod Installation: https://github.com/Lauriethefish/Quest-Discord-Presence-Client/blob/main/README.md\r\nYou must follow this to set up the client on your PC and the mod on your Quest.\r\nIf you get a virus warning during installation, ignore it, this isn't a virus - Windows is oversensitive.\r\n\r\nAlternatively, follow this guide to use MadMagic's app for general presence of any Quest app: https://github.com/madmagic007/Oculus-Quest-Presence\r\n\r\nIf it's not working, try these:\r\n- Make sure your Quest IP hasn't changed, if so, update it in the app, see installation.\r\n- Make sure you've opened the app.\r\n- Make sure Beat Saber is open and your headset is on your head.\r\n- You have discord on your PC not in the browser.\r\n- Try restarting discord.",
+            "id": "discord-presence",
+            "version": "0.3.3",
+            "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence/releases/download/0.3.3/discord-presence_v0.3.3.qmod",
+            "source": "https://github.com/Lauriethefish/Quest-Discord-Presence/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/Quest-Discord-Presence/master/cover.png",
+            "author": {
+                "name": "Lauriethefish#6700",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "Streamer Tools",
+            "description": "Allows applications to get information from the game like, currently played song.",
+            "id": "streamer-tools",
+            "version": "0.1.2",
+            "downloadLink": "https://github.com/EnderdracheLP/streamer-tools/releases/download/0.1.2/streamer-tools.qmod",
+            "source": "https://github.com/EnderdracheLP/streamer-tools/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/streamer-tools/master/cover.png",
+            "author": {
+                "name": "EnderdracheLP,  ComputerElite,  Lauriethefish,  Phaze",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.0.0/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/QuestSounds/master/Cover.jpg",
+            "author": {
+                "name": "Rugtveit,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "Particles",
+            "description": "Quest Particles allows you to boost/reduce/remove note slash particles, saber clash particles, remove environmental dust, and make particle rainbow.\r\n\r\nThis mod does nothing out of the box. You will need to use the in-game mod config UI (Settings -> Mod Settings -> ParticleTuner) to change the particle behaviors.\r\n\r\nKnown Issues:\r\n* Particles having white tints in rainbow mode (colorOverLifetime?)\r\n* Sometimes the preset buttons may fail to work (please lmk if you can reproduce this issue consistently)",
+            "id": "particletuner",
+            "version": "1.3.0",
+            "downloadLink": "https://github.com/SuperMarcus/QuestParticleTuner/releases/download/1.3.0/ParticleTuner.qmod",
+            "source": "https://github.com/SuperMarcus/QuestParticleTuner/",
+            "cover": "https://raw.githubusercontent.com/SuperMarcus/QuestParticleTuner/master/cover.gif",
+            "author": {
+                "name": "Marcus Zhou",
+                "icon": "https://avatars.githubusercontent.com/SuperMarcus"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.4.2",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.4.2/RedBar.qmod",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Anti Vertigo",
+            "description": "Spawn a bigger base platform for people with vertigo so they can play comfortably",
+            "id": "AntiVertigo",
+            "version": "1.0.2",
+            "downloadLink": "https://github.com/RedBrumbler/AntiVertigo/releases/download/v1.0.2/AntiVertigo.qmod",
+            "source": "https://github.com/RedBrumbler/AntiVertigo/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/AntiVertigo/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Custom Pillows",
+            "description": "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC",
+            "id": "CustomPillows",
+            "version": "1.0.3",
+            "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/download/v1.0.3/CustomPillows.qmod",
+            "source": "https://github.com/RedBrumbler/CustomPillowsQuest/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/CustomPillowsQuest/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Inverted Arrows",
+            "description": "Customize all arrow directions on a beatmap",
+            "id": "InvertedArrows",
+            "version": "1.0.4",
+            "downloadLink": "https://github.com/RedBrumbler/InvertedArrows/releases/download/v1.0.4/InvertedArrows.qmod",
+            "source": "https://github.com/RedBrumbler/InvertedArrows/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/InvertedArrows/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Qosmetics",
+            "description": "Quest Cosmetics on a whole new level!",
+            "id": "Qosmetics",
+            "version": "1.3.1",
+            "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/v1.3.1/Qosmetics.qmod",
+            "source": "https://github.com/RedBrumbler/Qosmetics/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/Qosmetics/master/cover.gif",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "ChatUI",
+            "description": "Shows your Twitch Chat Ingame",
+            "id": "chatui",
+            "version": "0.2.0",
+            "downloadLink": "https://github.com/darknight1050/ChatUI/releases/download/v0.2.0/chatui.qmod",
+            "source": "https://github.com/darknight1050/ChatUI/",
+            "cover": "https://raw.githubusercontent.com/darknight1050/ChatUI/master/cover.png",
+            "author": {
+                "name": "darknight1050",
+                "icon": "https://avatars.githubusercontent.com/darknight1050"
+            }
+        },
+        {
+            "name": "Hit Score Visualizer",
+            "description": "Changes the scores that pop up when you hit notes.",
+            "id": "hitscore",
+            "version": "1.5.0",
+            "downloadLink": "https://github.com/Christoffyw/HitScoreVisualizer/releases/download/1.5.0/HitScoreVisualizer_v1.5.0.qmod",
+            "source": "https://github.com/Christoffyw/HitScoreVisualizer/",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/HitScoreVisualizer/master/Cover.jpg",
+            "author": {
+                "name": "Christoffyw and Metalit",
+                "icon": "https://avatars.githubusercontent.com/Christoffyw"
+            }
+        }
+    ],
+    "1.23.0": [],
+    "1.13.2": [
+        {
+            "name": "CrashMod",
+            "description": "Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more",
+            "id": "CrashMod",
+            "version": "0.1.0",
+            "downloadLink": "https://github.com/ComputerElite/CrashMod/releases/download/0.1.0/CrashMod_v0.1.0.zip",
+            "source": "https://github.com/ComputerElite/CrashMod/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/CrashMod/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Clock Mod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "clockmod",
+            "version": "1.3.1",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.3.1/Clockmod.zip",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety,  EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "Clock Mod",
+            "description": "Features:\r\n- Toggle Clock off in maps.\r\n- Change Clock between 24/12 Hour format.\r\n- Toggle Seconds on/off\r\n- Added HoverText explanations to the config menu.\r\n\r\nMissing Features:\r\n- Change size\r\n- Change color\r\n\r\nNote:\r\nSince the original source code only had the code to show the clock, I had to rewrite things like changing the format to 12 from 24 hours and toggling seconds on and off.\r\nWhich means any previous config values will not load. You will have to set the settings again.",
+            "id": "clockmod",
+            "version": "0.1.2",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/latest/download/Clockmod.zip",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/ClockMod/master/Cover.jpg",
+            "author": {
+                "name": "EnderdracheLP, BoopetyDoopety",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "Third Person Mod",
+            "description": "View yourself in 3rd person while playing. Features include a spinning camera, flying through the whole beat saber environment and way more",
+            "id": "play3rdper",
+            "version": "0.1.2",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.1.2/Play3rdPer_v0.1.2.zip",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Qounters-",
+            "description": "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.",
+            "id": "qounters-minus",
+            "version": "1.0.2",
+            "downloadLink": "https://github.com/danrouse/bsq-qounters-minus/releases/download/1.0.2/qounters-minus_v1.0.2.zip",
+            "source": "https://github.com/danrouse/bsq-qounters-minus/",
+            "cover": "https://raw.githubusercontent.com/danrouse/bsq-qounters-minus/master/cover.png",
+            "author": {
+                "name": "Metalit,  danrouse",
+                "icon": "https://avatars.githubusercontent.com/danrouse"
+            }
+        },
+        {
+            "name": "Third Person mod",
+            "description": "A mod which lets you play in third person\r\n\r\nFeatures:\r\n- Play with a fixed camera position\r\n- Fly anywhere\r\n- Fix the camera to your saber\r\n- And more options to keep you away from motion sickness",
+            "id": "play3rdper",
+            "version": "0.1.3",
+            "downloadLink": "https://github.com/ComputerElite/play3rdper/releases/download/0.1.3/Play3rdPer_v0.1.3.zip",
+            "source": "https://github.com/ComputerElite/play3rdper/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/play3rdper/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "ModList",
+            "description": "Allows you to see which mods have loaded correctly ingame, and tells you why a mod failed to load. Useful for support and troubleshooting.\r\n\r\nTo view loaded mods, go to the settings icon in the main menu, then select mod settings and go to mod list.",
+            "id": "mod-list",
+            "version": "0.1.1",
+            "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.1/mod-list_v0.1.1.zip",
+            "source": "https://github.com/Lauriethefish/ModList/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/ModList/master/cover.png",
+            "author": {
+                "name": "Laurie",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "Particles",
+            "description": "Quest Particles allows you to boost/reduce/remove note slash particles, saber clash particles, remove environmental dust, and make particle rainbow.\r\n\r\nThis mod does nothing out of the box. You will need to use the in-game mod config UI (Settings -> Mod Settings -> ParticleTuner) to change the particle behaviors.\r\n\r\nKnown Issues:\r\n* Particles having white tints in rainbow mode (colorOverLifetime?)\r\n* Sometimes the preset buttons may fail to work (please lmk if you can reproduce this issue consistently)",
+            "id": "particletuner",
+            "version": "1.1.2",
+            "downloadLink": "https://github.com/SuperMarcus/QuestParticleTuner/releases/download/1.1.2/ParticleTuner_1.1.2.zip",
+            "source": "https://github.com/SuperMarcus/QuestParticleTuner/",
+            "cover": "https://raw.githubusercontent.com/SuperMarcus/QuestParticleTuner/master/cover.gif",
+            "author": {
+                "name": "Marcus Zhou",
+                "icon": "https://avatars.githubusercontent.com/SuperMarcus"
+            }
+        },
+        {
+            "name": "Custom Backgrounds",
+            "description": "Import your own 360 images as custom skyboxes!\nScans the 'CustomBackgrounds' ModData folder for imported images.",
+            "id": "CustomBackgrounds",
+            "version": "1.2.6",
+            "downloadLink": "https://github.com/Raemien/CustomBackgroundsQuest/releases/download/v1.2.6/CustomBackgrounds.zip",
+            "source": "https://github.com/Raemien/CustomBackgroundsQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/CustomBackgroundsQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Custom Fail Text",
+            "description": "Allows you to customise the text that appears when you fail a level.\r\nThe text can be changed in the mod settings menu.",
+            "id": "custom-fail-text",
+            "version": "0.1.8",
+            "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.8/custom-fail-text_v0.1.8.zip",
+            "source": "https://github.com/Lauriethefish/CustomFailText/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/CustomFailText/master/cover.png",
+            "author": {
+                "name": "Laurie",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "DebrisTweaks",
+            "description": "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.",
+            "id": "DebrisTweaks",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/latest/download/DebrisTweaks.zip",
+            "source": "https://github.com/Raemien/DebrisTweaksQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/DebrisTweaksQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Discord Presence",
+            "description": "Allows discord rich presence to see which song you're playing, the current time, and much more.\r\n\r\nMod Installation: https://github.com/Lauriethefish/Quest-Discord-Presence-Client/blob/main/README.md\r\nYou must follow this to set up the client on your PC and the mod on your Quest.\r\nIf you get a virus warning during installation, ignore it, this isn't a virus - Windows is oversensitive.\r\n\r\nAlternatively, follow this guide to use MadMagic's app for general presence of any Quest app: https://github.com/madmagic007/Oculus-Quest-Presence\r\n\r\nIf it's not working, try these:\r\n- Make sure your Quest IP hasn't changed, if so, update it in the app, see installation.\r\n- Make sure you've opened the app.\r\n- Make sure Beat Saber is open and your headset is on your head.\r\n- You have discord on your PC not in the browser.\r\n- Try restarting discord.",
+            "id": "discord-presence",
+            "version": "0.3.1",
+            "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence/releases/download/0.3.1/discord-presence_v0.3.1.zip",
+            "source": "https://github.com/Lauriethefish/Quest-Discord-Presence/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/Quest-Discord-Presence/master/cover.png",
+            "author": {
+                "name": "Lauriethefish#6700",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "PauseConfirm",
+            "description": "Makes you confirm before going back to the menu, restarting or pressing continue when in the pause menu. This is to avoid you accidentally doing it when you're about to set a really good play, which I'm sure you've all done many times.\r\n\r\nTo choose which buttons require confirmation go to the Settings Icon in the main menu -> Mod Settings -> PauseConfirm. The default is that all three buttons require confirmation, but some might not want that.",
+            "id": "pause-confirm",
+            "version": "0.2.1",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.3.0/RedBar_v1.3.0.zip",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "Laurie",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "QuestSounds or QSounds for short, allows the user to change sounds without asset mods, \r\njust drop them into default path or your custom path!\r\n\r\nFeatures:\r\n  Support for OGG, MP3 and WAV file formats!\r\n  Creates QuestSounds folder at /sdcard/ModData/com.beatgames.beatsaber/Mods/\r\n  AFTER YOU HAVE RAN THE MOD ONCE\r\n  Config for disabling and enabling Custom Sounds!\r\n  Custom filepaths in config, so you can decide where you want the sounds!\r\n\r\nPlanned features:\r\n- Settings Menu to select Sounds.\r\n- More Sounds to customize",
+            "id": "QuestSounds",
+            "version": "0.2.0",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/0.2.0/QuestSounds.zip",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://raw.githubusercontent.com/EnderdracheLP/QuestSounds/master/Cover.jpg",
+            "author": {
+                "name": "EnderdracheLP, Lillie",
+                "icon": "https://avatars.githubusercontent.com/EnderdracheLP"
+            }
+        },
+        {
+            "name": "BeatTogether",
+            "description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+            "id": "BeatTogether",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/pythonology/BeatTogether.Quest/releases/download/v1.1.0/BeatTogether_v1.1.0.zip",
+            "source": "https://github.com/pythonology/BeatTogether.Quest/",
+            "cover": "https://raw.githubusercontent.com/pythonology/BeatTogether.Quest/master/Cover.png",
+            "author": {
+                "name": "BeatTogether Team",
+                "icon": "https://avatars.githubusercontent.com/pythonology"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.3.1",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.3.1/RedBar_v1.3.1.zip",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "Inverted Arrows",
+            "description": "Customize all arrow directions on a beatmap",
+            "id": "InvertedArrows",
+            "version": "1.0.2",
+            "downloadLink": "https://github.com/RedBrumbler/InvertedArrows/releases/download/1.0.2/InvertedArrows.zip",
+            "source": "https://github.com/RedBrumbler/InvertedArrows/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/InvertedArrows/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "AntiVertigo",
+            "description": "Spawns a plane or circle under you to help you deal with vertigo issues.",
+            "id": "AntiVertigo",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/RedBrumbler/AntiVertigo/releases/latest/download/AntiVertigo.zip",
+            "source": "https://github.com/RedBrumbler/AntiVertigo/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/AntiVertigo/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Custom Pillows Quest",
+            "description": "This mod is a spiritual port of the mod for PC of the same name by Toni Macaroni!\r\nThese pillows can be anything you want them to be, as long as you can put it on a flat texture. This mod was Commissioned by @TKC \r\n\r\n - Pillows Take their texture from a pool of active textures, enabled in the mod settings and listed from sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/images\r\n - Pillows spawn using a constellation, configured in the mod settings and located at sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/constellations\r\n - The mod can be disabled in the menu\r\n - Features a shuffle button in the menu for shuffling the current iteration of textures\r\n\r\nExtra Pillow Textures:\r\nhttps://github.com/RedBrumbler/CustomPillowsQuest/releases/latest/download/ExtraPillows.zip",
+            "id": "CustomPillowsQuest",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/RedBrumbler/CustomPillowsQuest/releases/latest/download/CustomPillowsQuest.zip",
+            "source": "https://github.com/RedBrumbler/CustomPillowsQuest/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/CustomPillowsQuest/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Qosmetics",
+            "description": "Quest Cosmetics on a whole new level!",
+            "id": "Qosmetics",
+            "version": "1.2.1",
+            "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/1.2.1/Qosmetics.zip",
+            "source": "https://github.com/RedBrumbler/Qosmetics/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/Qosmetics/master/cover.gif",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "PinkCore",
+            "description": "PinkCore, formerly known as PinkUtils is a core mod that ports over many required features which ensures a smooth PC-Like experience.",
+            "id": "PinkCore",
+            "version": "1.4.1",
+            "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/1.4.1/PinkCoreV1.4.1.zip",
+            "source": "https://github.com/BSMGPink/PinkCore/",
+            "cover": "https://raw.githubusercontent.com/BSMGPink/PinkCore/master/cover.png",
+            "author": {
+                "name": "Pink, StackDoubleFlow, Lillie, RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/BSMGPink"
+            }
+        }
+    ],
+    "1.13.0": [
+        {
+            "name": "Darth Maul",
+            "description": "A long awated rewrite of the original Darth Maul mod by Henwill8, which was originally created by riku1227!\r\nThis also contains many config options and is initially toggleable via the in-game modifiers.",
+            "id": "DarthMaul",
+            "version": "1.1.0",
+            "downloadLink": "https://github.com/BSMGPink/QuestDarthMaul/releases/download/1.0.0/DarthMaul.zip",
+            "source": "https://github.com/BSMGPink/QuestDarthMaul/",
+            "cover": "https://raw.githubusercontent.com/BSMGPink/QuestDarthMaul/master/cover.png",
+            "author": {
+                "name": "Pink, Henwill8, riku1227",
+                "icon": "https://avatars.githubusercontent.com/BSMGPink"
+            }
+        },
+        {
+            "name": "ModList",
+            "description": "Allows you to see which mods have loaded correctly ingame, and tells you why a mod failed to load. Useful for support and troubleshooting.\r\n\r\nTo view loaded mods, go to the settings icon in the main menu, then select mod settings and go to mod list.",
+            "id": "mod-list",
+            "version": "0.1.0",
+            "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.0/mod-list_v0.1.0.zip",
+            "source": "https://github.com/Lauriethefish/ModList/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/ModList/master/cover.png",
+            "author": {
+                "name": "Laurie",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "Custom Fail Text",
+            "description": "Allows you to customise the text that appears when you fail a level.\r\nThe text can be changed in the mod settings menu.",
+            "id": "custom-fail-text",
+            "version": "0.1.7",
+            "downloadLink": "https://github.com/Lauriethefish/CustomFailText/releases/download/0.1.7/custom-fail-text_v0.1.7.zip",
+            "source": "https://github.com/Lauriethefish/CustomFailText/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/CustomFailText/master/cover.png",
+            "author": {
+                "name": "Laurie",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "DebrisTweaks",
+            "description": "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.",
+            "id": "DebrisTweaks",
+            "version": "0.3.0",
+            "downloadLink": "https://github.com/Raemien/DebrisTweaksQuest/releases/download/0.3.0/DebrisTweaks.zip",
+            "source": "https://github.com/Raemien/DebrisTweaksQuest/",
+            "cover": "https://raw.githubusercontent.com/Raemien/DebrisTweaksQuest/master/cover.png",
+            "author": {
+                "name": "Raemien",
+                "icon": "https://avatars.githubusercontent.com/Raemien"
+            }
+        },
+        {
+            "name": "Discord Presence",
+            "description": "Allows discord rich presence to see which song you're playing, the current time, and much more.\r\n\r\nMod Installation: https://github.com/Lauriethefish/Quest-Discord-Presence-Client/blob/main/README.md\r\nYou must follow this to set up the client on your PC and the mod on your Quest.\r\nIf you get a virus warning during installation, ignore it, this isn't a virus - Windows is oversensitive.\r\n\r\nAlternatively, follow this guide to use MadMagic's app for general presence of any Quest app: https://github.com/madmagic007/Oculus-Quest-Presence\r\n\r\nIf it's not working, try these:\r\n- Make sure your Quest IP hasn't changed, if so, update it in the app, see installation.\r\n- Make sure you've opened the app.\r\n- Make sure Beat Saber is open and your headset is on your head.\r\n- You have discord on your PC not in the browser.\r\n- Try restarting discord.",
+            "id": "discord-presence",
+            "version": "0.2.1",
+            "downloadLink": "https://github.com/Lauriethefish/Quest-Discord-Presence/releases/download/0.2.1/discord-presence_v0.2.1.zip",
+            "source": "https://github.com/Lauriethefish/Quest-Discord-Presence/",
+            "cover": "https://raw.githubusercontent.com/Lauriethefish/Quest-Discord-Presence/master/cover.png",
+            "author": {
+                "name": "Lauriethefish#6700",
+                "icon": "https://avatars.githubusercontent.com/Lauriethefish"
+            }
+        },
+        {
+            "name": "BeatTogether",
+            "description": "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.",
+            "id": "BeatTogether",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/pythonology/BeatTogether.Quest/releases/download/v1.0.1/BeatTogether_v1.0.1.zip",
+            "source": "https://github.com/pythonology/BeatTogether.Quest/",
+            "cover": "https://raw.githubusercontent.com/pythonology/BeatTogether.Quest/master/Cover.png",
+            "author": {
+                "name": "BeatTogether Team",
+                "icon": "https://avatars.githubusercontent.com/pythonology"
+            }
+        },
+        {
+            "name": "Quest Particles",
+            "description": "Partially ported ParticleOverdrive to the Quest. Particles (a.k.a. ParticleTuner) allows you to adjust the particles spawned after slicing a note, remove saber clashing effects, and reduce environmental dust. There's also a built-in rainbow mode for particles :)",
+            "id": "particletuner",
+            "version": "1.0.1",
+            "downloadLink": "https://github.com/SuperMarcus/QuestParticleTuner/releases/download/1.0.1/ParticleTuner_1.0.1.zip",
+            "source": "https://github.com/SuperMarcus/QuestParticleTuner/",
+            "cover": "https://raw.githubusercontent.com/SuperMarcus/QuestParticleTuner/master/cover.gif",
+            "author": {
+                "name": "marcuszhou",
+                "icon": "https://avatars.githubusercontent.com/SuperMarcus"
+            }
+        },
+        {
+            "name": "RedBar",
+            "description": "Custom color for your energy bar which changes according to your health and Rainbow mode",
+            "id": "RedBar",
+            "version": "1.2.0",
+            "downloadLink": "https://github.com/ComputerElite/RedBar/releases/download/1.2.0/RedBar_v1.2.0.zip",
+            "source": "https://github.com/ComputerElite/RedBar/",
+            "cover": "https://raw.githubusercontent.com/ComputerElite/RedBar/master/cover.png",
+            "author": {
+                "name": "ComputerElite",
+                "icon": "https://avatars.githubusercontent.com/ComputerElite"
+            }
+        },
+        {
+            "name": "PinkCore",
+            "description": "PinkCore, formerly known as PinkUtils is a core mod that ports over many required features which ensures a smooth PC-Like experience.",
+            "id": "PinkCore",
+            "version": "1.3.1",
+            "downloadLink": "https://github.com/BSMGPink/PinkUtils/releases/download/1.3.1/PinkCorev1.3.1.zip",
+            "source": "https://github.com/BSMGPink/PinkUtils/",
+            "cover": "https://raw.githubusercontent.com/BSMGPink/PinkUtils/master/cover.png",
+            "author": {
+                "name": "Pink, StackDoubleFlow, Lillie, RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/BSMGPink"
+            }
+        },
+        {
+            "name": "Inverted Arrows",
+            "description": "Customize all arrow directions on a beatmap",
+            "id": "InvertedArrows",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/RedBrumbler/InvertedArrows/releases/latest/download/InvertedArrows.zip",
+            "source": "https://github.com/RedBrumbler/InvertedArrows/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/InvertedArrows/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "Qosmetics",
+            "description": "Quest Cosmetics on a whole new level!",
+            "id": "Qosmetics",
+            "version": "1.1.7",
+            "downloadLink": "https://github.com/RedBrumbler/Qosmetics/releases/download/1.1.7/Qosmetics.zip",
+            "source": "https://github.com/RedBrumbler/Qosmetics/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/Qosmetics/master/cover.gif",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        },
+        {
+            "name": "AntiVertigo",
+            "description": "Spawns a plane or circle under you to help you deal with vertigo issues.",
+            "id": "AntiVertigo",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/RedBrumbler/AntiVertigo/releases/download/1.0.0/AntiVertigo.zip",
+            "source": "https://github.com/RedBrumbler/AntiVertigo/",
+            "cover": "https://raw.githubusercontent.com/RedBrumbler/AntiVertigo/master/cover.png",
+            "author": {
+                "name": "RedBrumbler",
+                "icon": "https://avatars.githubusercontent.com/RedBrumbler"
+            }
+        }
+    ],
+    "1.12.2": [
+        {
+            "name": "Quest Particles",
+            "description": "Partially ported ParticleOverdrive to the Quest. Particles (a.k.a. ParticleTuner) allows you to adjust the particles spawned after slicing a note, remove saber clashing effects, and reduce environmental dust. There's also a built-in rainbow mode for particles :)",
+            "id": "particletuner",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/SuperMarcus/QuestParticleTuner/releases/download/1.0.0/ParticleTuner_1.0.0.zip",
+            "source": "https://github.com/SuperMarcus/QuestParticleTuner/",
+            "cover": "https://raw.githubusercontent.com/SuperMarcus/QuestParticleTuner/master/cover.gif",
+            "author": {
+                "name": "marcuszhou",
+                "icon": "https://avatars.githubusercontent.com/SuperMarcus"
             }
         }
     ]
