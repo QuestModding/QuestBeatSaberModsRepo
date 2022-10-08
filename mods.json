@@ -177,10 +177,10 @@
             "name": "Chroma",
             "description": "Colors!",
             "id": "chroma",
-            "version": "2.6.0",
-            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.6.0/chroma.qmod",
+            "version": "2.6.5",
+            "downloadLink": "https://github.com/bsq-ports/Chroma/releases/download/v2.6.5/chroma.qmod",
             "source": "https://github.com/bsq-ports/Chroma/",
-            "cover": "https://github.com/bsq-ports/Chroma/raw/refs/tags/v2.6.0/cover.png",
+            "cover": "https://github.com/bsq-ports/Chroma/raw/refs/tags/v2.6.5/cover.png",
             "author": {
                 "name": "Fernthedev",
                 "icon": "https://avatars.githubusercontent.com/u/15272073?v=4"
