@@ -174,6 +174,58 @@
             }
         },
         {
+            "name": "Faster Scroll",
+            "description": "Find your songs faster with customizable song scrolling.",
+            "id": "FasterScroll",
+            "version": "1.6.0",
+            "downloadLink": "https://github.com/Christoffyw/FasterScrollQuest/releases/download/v1.6.0/FasterScroll.qmod",
+            "source": "https://github.com/Christoffyw/FasterScrollQuest",
+            "cover": "https://raw.githubusercontent.com/Christoffyw/FasterScrollQuest/main/Cover.jpg",
+            "author": {
+                "name": "Christoffyw",
+                "icon": "https://avatars.githubusercontent.com/u/55860414?s=400&v=4"
+            }
+        },
+        {
+            "name": "Difficulty Saver",
+            "description": "Once upon a time someone thought of a great mod idea. That happened to be male (not me). I, the great KRAK, went on the quest to fetch all the knowledge needed to create a mind blowing mod which saves your difficulty after changing it in the blink of an eye.",
+            "id": "Difficulty-Saver",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/kodenamekrak/DifficultySaver/releases/download/1.0.0/DifficultySaver.qmod",
+            "source": "https://github.com/kodenamekrak/DifficultySaver",
+            "cover": "https://github.com/kodenamekrak/DifficultySaver/blob/master/cover.png?raw=true",
+            "author": {
+                "name": "KodenameKRAK",
+                "icon": "https://cdn.discordapp.com/avatars/430459328852656148/dcb4ceec175e463b68a8afcc86f29a37.png?size=2048"
+            }
+        },
+        {
+            "name": "RandomSongPicker",
+            "description": "Adds a button, that picks a random song out of the current list",
+            "id": "RandomSongPicker",
+            "version": "0.2.0",
+            "downloadLink": "https://github.com/Tatenshi/RandomSongPicker/releases/download/v0.2.0/RandomSongPicker_1_24_0.qmod",
+            "source": "https://github.com/Tatenshi/RandomSongPicker/",
+            "cover": "https://raw.githubusercontent.com/Tatenshi/RandomSongPicker/main/cover.jpg",
+            "author": {
+                "name": "Tatenshi",
+                "icon": "https://avatars.githubusercontent.com/u/55283269?v=4"
+            }
+        },
+        {
+            "name": "NoodleExtensions",
+            "description": "This adds a host of new things you can do with your maps. Original mod for PC by Aeroluna. Contributions by Fern and Sc2ad.",
+            "id": "NoodleExtensions",
+            "version": "1.2.4-beta1",
+            "downloadLink": "https://github.com/StackDoubleFlow/NoodleExtensions/releases/download/v1.2.4/noodle_extensions.qmod",
+            "source": "https://github.com/StackDoubleFlow/NoodleExtensions/",
+            "cover": "https://github.com/StackDoubleFlow/NoodleExtensions/raw/refs/tags/v1.2.4/cover.png",
+            "author": {
+                "name": "StackDoubleFlow",
+                "icon": "https://avatars.githubusercontent.com/u/22183359?v=4"
+          }
+        },
+        {
             "name": "Chroma",
             "description": "Colors!",
             "id": "chroma",
@@ -184,18 +236,6 @@
             "author": {
                 "name": "Fernthedev",
                 "icon": "https://avatars.githubusercontent.com/u/15272073?v=4"
-            }
-        },
-            "name": "Qosmetics Core",
-            "description": "Qosmetics Core module that handles menu placement and generic utils for other modules",
-            "id": "qosmetics-core",
-            "version": "2.0.0",
-            "downloadLink": "https://github.com/Qosmetics/Qosmetics-Core/releases/download/v2.0.0/QosmeticsCore.qmod",
-            "source": "https://github.com/Qosmetics/Qosmetics-Core",
-            "cover": "https://github.com/Qosmetics/Qosmetics-Core/raw/master/cover.png",
-            "author": {
-                "name": "RedBrumbler",
-                "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
             }
         },
         {
@@ -235,6 +275,32 @@
             "author": {
                 "name": "RedBrumbler",
                 "icon": "https://avatars.githubusercontent.com/u/51795403?v=4"
+            }
+        },
+        {
+            "name": "QuestSounds",
+            "description": "Allows users to change their sfx sounds and in-game music easily!",
+            "id": "QuestSounds",
+            "version": "1.2.0",
+            "downloadLink": "https://github.com/EnderdracheLP/QuestSounds/releases/download/1.2.0/QuestSounds.qmod",
+            "source": "https://github.com/EnderdracheLP/QuestSounds/",
+            "cover": "https://github.com/EnderdracheLP/QuestSounds/raw/master/Cover.jpg",
+            "author": {
+                "name": "Rugtveit, EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
+            }
+        },
+        {
+            "name": "ClockMod",
+            "description": "Displays the time in game. Alternatively also the Battery Percentage",
+            "id": "ClockMod",
+            "version": "1.6.0",
+            "downloadLink": "https://github.com/EnderdracheLP/ClockMod/releases/download/1.6.0/ClockMod.qmod",
+            "source": "https://github.com/EnderdracheLP/ClockMod/",
+            "cover": "https://github.com/EnderdracheLP/ClockMod/raw/main/Cover.jpg",
+            "author": {
+                "name": "BoopetyDoopety, EnderdracheLP",
+                "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
             }
         }
     ]
