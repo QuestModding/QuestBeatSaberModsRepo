@@ -302,6 +302,19 @@
                 "name": "BoopetyDoopety, EnderdracheLP",
                 "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
             }
+        },
+        {
+            "name": "Nya",
+            "description": "Mod for displaying nya-tastic images from various anime themed web APIs",
+            "id": "Nya",
+            "version": "0.2.2",
+            "downloadLink": "https://github.com/FrozenAlex/Nya-quest/releases/download/v0.2.2/Nya.qmod",
+            "source": "https://github.com/FrozenAlex/Nya-quest/",
+            "cover": "https://github.com/FrozenAlex/Nya-quest/raw/main/cover.jpg",
+            "author": {
+                "name": "FrozenAlex",
+                "icon": "https://avatars.githubusercontent.com/u/8300099?s=200&v=4"
+            }
         }
     ]
 }
