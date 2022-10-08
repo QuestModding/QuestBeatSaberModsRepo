@@ -1,5 +1,5 @@
 {
-  "cosmetic":["qosmetics-notes", "qosmetics-sabers", "qosmetics-walls", "custom-pillows", "QuestSounds"],
+  "cosmetic":["qosmetics-notes", "qosmetics-sabers", "qosmetics-walls", "custom-pillows", "QuestSounds", "Nya"],
   "gameplay":["NoodleExtensions", "Chroma"],
   "ui-tweaks":["SearchFixes", "RedBar", "FasterScroll", "RandomSongPicker", "ClockMod"],
   "streaming":["Streamer-Tools"],
