@@ -223,7 +223,7 @@
             "author": {
                 "name": "StackDoubleFlow",
                 "icon": "https://avatars.githubusercontent.com/u/22183359?v=4"
-          }
+            }
         },
         {
             "name": "Chroma",
@@ -301,6 +301,21 @@
             "author": {
                 "name": "BoopetyDoopety, EnderdracheLP",
                 "icon": "https://avatars.githubusercontent.com/u/81266776?s=200&v=4"
+            }
+        }
+    ],
+    "1.25.1": [
+        {
+            "name": "SearchFixes",
+            "description": "An improved search algorithm for Beat Saber",
+            "id": "SearchFixes",
+            "version": "1.2.3",
+            "downloadLink": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/releases/download/v1.2.3/SearchFixes.qmod",
+            "source": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/",
+            "cover": "https://github.com/FranciscoRibeiro03/SearchFixesQuest/raw/refs/tags/v1.2.3/cover.png",
+            "author": {
+                "name": "rui2015",
+                "icon": "https://avatars.githubusercontent.com/u/15705566?v=4"
             }
         }
     ]
